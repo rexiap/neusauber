@@ -9,3 +9,7 @@
 .line-block, .docutils.footnote {
     line-height: 24px;
 }
+
+.wy-breadcrumbs-aside{
+    display:none;/*hide github editor*/
+}
