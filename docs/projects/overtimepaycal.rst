@@ -14,7 +14,7 @@
 加班費計算機是什麼？
 ====================
 
-本計算機建立在Google試算表上，是一個根據2016年12月立法院通過勞基法修正案為基礎的加班費計算機。輸入員工的薪資、午休時間、加班單位及上下班時間等數值後，會計算出當日的加班費。
+本計算機建立在Google試算表上，是一個根據2016年12月立法院通過勞基法修正案為基礎的加班費計算機。輸入員工的薪資、午休時間、加班單位及上下班時間等數值後，會計算出當日的加班費。可替每一位員工建立自己的計算工作表。
 
 .. _h57574e4f5e306a1f6a391d2041155b23:
 
@@ -26,7 +26,7 @@
 * 本加班費計算機以實用為目的，可以具體每一個員工每一天的額外工資。
 * 本加班費計算機內建2017年行事曆，具體顯示該日性質是工作日、休息日還是例假日的資訊。但使用者仍可以自行設定。
 * 本加班費計算機所有計算規則、公式、過程資訊，您可以全部一覽無遺。
-* 本加班費計算機對於目前仍不明確的部分，例如對於「加班不到一小時，需算一小時」問題，因無定論，本加班費計算機讓您可以自行設定。
+* 本加班費計算機對於目前仍不明確的部分，例如對於「加班不到一小時，需算一小時」問題因無定論(我們還沒找到可信的說法），本加班費計算機讓您可以自行設定。
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -96,6 +96,10 @@
 #. 根據日期輸入員工的上班與下班時間，即可在表上看到當日加班時間及當日的加班費。
 #. 重複步驟3，繼續設定下一位員工的加班試算表。
 
+\ |IMG2|\ 
+
+\ |IMG3|\ 
+
 .. _hd7b751276e3b5a272340277219674:
 
 哪些儲存格可以編輯？
@@ -103,7 +107,7 @@
 
 為了方便使用，本計算機在需要您使用者輸入數值的儲存格，一律是黃底黑字。只要不是黃底黑字的地方，使用時您都可以不必作任何異動。
 
-\ |IMG2|\ 
+\ |IMG4|\ 
 
 .. _h57574e4f5e306a1f6a391d2041155b23:
 
@@ -112,12 +116,14 @@
 
 請見各欄位的第一列註解，只要游標移到標題上方就會顯示。例如下圖所示為M欄「法定加班時數」的說明。
 
-\ |IMG3|\ 
+\ |IMG5|\ 
 
 .. _h106d6a60386b4471802c17574203f54:
 
 那些工作表是什麼作用？
 ======================
+
+\ |IMG6|\ 
 
 
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -147,7 +153,7 @@
 
 如果設定是這樣：
 
-\ |IMG4|\  
+\ |IMG7|\  
 
 計算案例：
 
@@ -160,7 +166,7 @@
 
 如果設定是這樣：
 
-\ |IMG5|\ 
+\ |IMG8|\ 
 
 計算案例：
 
@@ -276,19 +282,19 @@
 
 附圖一：力安會計師事務所例假日加班的算法(這是正確的例假日算法）
 
-\ |IMG6|\ 
+\ |IMG9|\ 
 
 附圖二：台北市與台中市政府勞工局提供，有點令人疑惑的試算表（沒有休息日的算法）。
 
-\ |IMG7|\ 
+\ |IMG10|\ 
 
 附圖三：台北市政府例假日加班的範例（有點令人疑惑的範例）
 
-\ |IMG8|\ 
+\ |IMG11|\ 
 
 附圖四：與圖三相同的薪資，勞動部的試算系統試算結果是1,540
 
-\ |IMG9|\ 
+\ |IMG12|\ 
 
 
 .. |LINK1| raw:: html
@@ -373,33 +379,45 @@
    :width: 697 px
 
 .. |IMG2| image:: static/overtimepaycal_2.png
-   :height: 398 px
-   :width: 358 px
+   :height: 148 px
+   :width: 476 px
 
 .. |IMG3| image:: static/overtimepaycal_3.png
+   :height: 238 px
+   :width: 504 px
+
+.. |IMG4| image:: static/overtimepaycal_4.png
+   :height: 132 px
+   :width: 412 px
+
+.. |IMG5| image:: static/overtimepaycal_5.png
    :height: 117 px
    :width: 509 px
 
-.. |IMG4| image:: static/overtimepaycal_4.png
+.. |IMG6| image:: static/overtimepaycal_6.png
+   :height: 44 px
+   :width: 476 px
+
+.. |IMG7| image:: static/overtimepaycal_7.png
    :height: 44 px
    :width: 264 px
 
-.. |IMG5| image:: static/overtimepaycal_5.png
+.. |IMG8| image:: static/overtimepaycal_8.png
    :height: 45 px
    :width: 260 px
 
-.. |IMG6| image:: static/overtimepaycal_6.png
+.. |IMG9| image:: static/overtimepaycal_9.png
    :height: 58 px
    :width: 697 px
 
-.. |IMG7| image:: static/overtimepaycal_7.png
+.. |IMG10| image:: static/overtimepaycal_10.png
    :height: 208 px
    :width: 697 px
 
-.. |IMG8| image:: static/overtimepaycal_8.png
+.. |IMG11| image:: static/overtimepaycal_11.png
    :height: 185 px
    :width: 697 px
 
-.. |IMG9| image:: static/overtimepaycal_9.png
+.. |IMG12| image:: static/overtimepaycal_12.png
    :height: 498 px
    :width: 552 px
