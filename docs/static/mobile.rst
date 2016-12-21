@@ -4,8 +4,10 @@
 mobile
 ******
 
+|CONTENT|
 
-.. html:: raw
+
+.. |CONTENT| raw:: html
 
     <form>
     <div>Salary:<input class="field" id="salary" value="36000"></div>
