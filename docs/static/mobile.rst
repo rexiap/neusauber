@@ -18,11 +18,12 @@ mobile
         <option value="4">特休</option>
         <option value="5">國定假日</option>
         </select></div>
-    <div>In:<input class="field" id="in_time" type="time" value="0900"></div>
-    <div>Rest Start:<input class="field" id="rest_start" type="time"  value="1200"></div>
-    <div>Rest End:<input class="field" id="rest_end" type="time"  value="1300"></div>
-    <div>Out:<input class="field" id="out_time" type="time" value="1700"></div>
+    <div>In:<input class="field" id="in_time" type="time" step="10" value="09:00:00:AM"></div>
+    <div>Rest Start:<input class="field" id="rest_start" type="time"  value="12:00:PM"></div>
+    <div>Rest End:<input class="field" id="rest_end" type="time"  value="01:00:PM"></div>
+    <div>Out:<input class="field" id="out_time" type="time" step="10" value="05:00:00:PM"></div>
     </form>
+    <div id="result"></div>
     <script language="javascript">
     function init(){
     
@@ -48,9 +49,15 @@ mobile
     		rest_end:getInputValue('rest_end'),
     		out_time:getInputValue('out_time')
     	}
-    	alert(arguments)
+    	var output = []
+    	for (var key in arguments){
+    		output.push('<div>'+key+'='+arguments[key]+'</div>')
+    	}
+    	document.getElementById('result').innerHTML = output
+    
     }
     window.addEventListener('DOMContentLoaded',init)
     </script>
+    
     
 
