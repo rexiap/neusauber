@@ -210,6 +210,8 @@
 
 請經常回來本文件，參考上面「如何安裝」一節當中的「最新版本」並與您複製的版本相對照。目前沒有其他更方便的作法。
 
+.. _bookmark-id-3hs6hcmo7yiy:
+
 .. _h57574e4f5e306a1f6a391d2041155b23:
 
 為什麼要使用這樣的稱法？
@@ -309,7 +311,7 @@
 
 .. |LINK1| raw:: html
 
-    <a href="#heading=h.ufrujmhv2q5o">為什麼要使用這樣的稱法</a>
+    <a href="#bookmark-id-3hs6hcmo7yiy">為什麼要使用這樣的稱法</a>
 
 .. |LINK2| raw:: html
 
