@@ -44,16 +44,24 @@
     table#calculator{
     	width:100%;
     }
-    table#calculator th,table#calculator td{
-    	padding:10px;
-    }
     table#calculator th{
+    	padding:10px;
     	background-color:#c9c9c9;
+    	text-align:left;
+    }
+    table#calculator td{
     }
     table#calculator input,table#calculator select{
+    	font-size:1.2em;
     	padding:10px;
     	width:100%;
     }
+    #rest_interval_value{
+    	font-size:1.2em;
+    	font-size:1.2em;
+    	padding:10px;
+    }
+    
     </style>
     <div id="result"></div>
     <script language="javascript">
