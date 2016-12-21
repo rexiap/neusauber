@@ -1,8 +1,8 @@
 
-.. _h532c282b412d295b77556b1c74a30:
+.. _h106d6a60386b4471802c17574203f54:
 
-mobile
-******
+加班費計算機（精簡版）
+**********************
 
 |CONTENT|
 
@@ -10,7 +10,7 @@ mobile
 .. |CONTENT| raw:: html
 
     <form>
-    <table>
+    <table id="calculator">
     <tr><th>月薪</th></tr>
     <tr><td><input class="field" type="number" id="salary" value="36002"></td></tr>
     <tr><th>類型</th></tr>
@@ -27,10 +27,22 @@ mobile
     <tr><td><input class="field" id="out_time" type="time" step="10" value="17:00:00"></td></tr>
     <tr><th>扣除中間休息時間分鐘</th></tr>
     <tr><td>
-        <input class="field" id="rest_interval" type="range" max="120" min="0" value="30"></td></tr>
+       <div style="margin-bottom:10px">
+    	   <output name="ageOutputName" id="rest_interval_value">0</output>
+       </div>
+       <div>
+    	   <input class="field" id="rest_interval" type="range" max="120" min="0" value="0" oninput="rest_interval_value.value = rest_interval.value"></td></tr>
+       </div>
     </table>
     </form>
-    
+    <style>
+    table#calculator th,table#calculator td{
+    	padding:10px;
+    }
+    table#calculator th{
+    	background-color:#c9c9c9;
+    }
+    </style>
     <div id="result"></div>
     <script language="javascript">
     function init(){
@@ -65,4 +77,5 @@ mobile
     }
     window.addEventListener('DOMContentLoaded',init)
     </script>
+    
 
