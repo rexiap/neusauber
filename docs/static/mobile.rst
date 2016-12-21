@@ -1,8 +1,13 @@
 
-.. _h106d6a60386b4471802c17574203f54:
+.. _h2164242e4c6048506f23311549231654:
 
-加班費計算機（精簡版）
-**********************
+加班費計算機
+************
+
+.. _hd1b83d48586e1b393a624e28544946:
+
+精簡版
+======
 
 |CONTENT|
 
@@ -31,16 +36,23 @@
     	   <output name="ageOutputName" id="rest_interval_value">0</output>
        </div>
        <div>
-    	   <input class="field" id="rest_interval" type="range" max="120" min="0" value="0" oninput="rest_interval_value.value = rest_interval.value"></td></tr>
+    	   <input class="field" id="rest_interval" step="10" type="range" max="120" min="0" value="0" oninput="rest_interval_value.value = rest_interval.value"></td></tr>
        </div>
     </table>
     </form>
     <style>
+    table#calculator{
+    	width:100%;
+    }
     table#calculator th,table#calculator td{
     	padding:10px;
     }
     table#calculator th{
     	background-color:#c9c9c9;
+    }
+    table#calculator input,table#calculator select{
+    	padding:10px;
+    	width:100%;
     }
     </style>
     <div id="result"></div>
