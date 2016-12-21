@@ -10,19 +10,27 @@ mobile
 .. |CONTENT| raw:: html
 
     <form>
-    <div>Salary:<input class="field" id="salary" value="36001"></div>
-    <div>Type:<select class="field" id="type">
+    <table>
+    <tr><th>月薪</th></tr>
+    <tr><td><input class="field" type="number" id="salary" value="36002"></td></tr>
+    <tr><th>類型</th></tr>
+    <tr><td><select class="field" id="type">
         <option value="1" selected>工作日</option>
         <option value="2">休息日</option>
         <option value="3">例假日</option>
         <option value="4">特休</option>
         <option value="5">國定假日</option>
-        </select></div>
-    <div>In:<input class="field" id="in_time" type="time" step="10" value="09:00:00"></div>
-    <div>Rest Start:<input class="field" id="rest_start" type="time"  value="12:00:00"></div>
-    <div>Rest End:<input class="field" id="rest_end" type="time"  value="13:00:00"></div>
-    <div>Out:<input class="field" id="out_time" type="time" step="10" value="17:00:00"></div>
+        </select></td></tr>
+    <tr><th>上班時間</th></tr>
+    <tr><td><input class="field" id="in_time" type="time" step="10" value="09:00:00"></td></tr>
+    <tr><th>下班時間</th></tr>
+    <tr><td><input class="field" id="out_time" type="time" step="10" value="17:00:00"></td></tr>
+    <tr><th>扣除中間休息時間分鐘</th></tr>
+    <tr><td>
+        <input class="field" id="rest_interval" type="range" max="120" min="0" value="30"></td></tr>
+    </table>
     </form>
+    
     <div id="result"></div>
     <script language="javascript">
     function init(){
@@ -45,8 +53,7 @@ mobile
     		salary:getInputValue('salary'),
     		type:getSelectValue('type'),
     		in_time:getInputValue('in_time'),
-    		rest_start:getInputValue('rest_start'),
-    		rest_end:getInputValue('rest_end'),
+    		rest_interval:getInputValue('rest_interval'),
     		out_time:getInputValue('out_time')
     	}
     	var output = []
@@ -58,6 +65,4 @@ mobile
     }
     window.addEventListener('DOMContentLoaded',init)
     </script>
-    
-    
 
