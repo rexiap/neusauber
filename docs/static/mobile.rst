@@ -27,19 +27,28 @@
         <option value="5">國定假日</option>
         </select></td></tr>
     <tr><th>上班時間</th></tr>
-    <tr><td><input class="field" id="in_time" type="time" step="10" value="09:00:00"></td></tr>
+    <tr><td><input class="field" id="in_time" type="time" value="09:00"></td></tr>
     <tr><th>下班時間</th></tr>
-    <tr><td><input class="field" id="out_time" type="time" step="10" value="17:00:00"></td></tr>
-    <tr><th>扣除中間休息時間分鐘</th></tr>
+    <tr><td><input class="field" id="out_time" type="time" value="17:00"></td></tr>
+    <tr><th>扣除午休時間(分鐘)</th></tr>
     <tr><td>
        <div style="margin-bottom:10px">
-    	   <output name="ageOutputName" id="rest_interval_value">0</output>
+    	   <output name="ageOutputName" id="rest_interval_value">60</output>
        </div>
        <div>
-    	   <input class="field" id="rest_interval" step="10" type="range" max="120" min="0" value="0" oninput="rest_interval_value.value = rest_interval.value"></td></tr>
+    	   <input class="field" id="rest_interval" step="10" type="range" max="120" min="0" value="60" oninput="rest_interval_value.value = rest_interval.value"></td></tr>
        </div>
+    <tr><th>每一加班單位多少分鐘</th></tr>
+    <tr><td><input class="field" id="ot_unit" type="number" step="10" value="60"></td></tr>
+    <tr><th>加班超過幾分鐘可算一單位</th></tr>
+    <tr><td><input class="field" id="ot_min" type="number" step="5" value="45"></td></tr>
+    <tr><th>本日薪資明細</th></tr>
+    <tr><td>
+        <div id="result"></div>
+        </td></tr>
     </table>
     </form>
+    
     <style>
     table#calculator{
     	width:100%;
@@ -61,9 +70,7 @@
     	font-size:1.2em;
     	padding:10px;
     }
-    
     </style>
-    <div id="result"></div>
     <script language="javascript">
     function init(){
     
@@ -97,5 +104,7 @@
     }
     window.addEventListener('DOMContentLoaded',init)
     </script>
+    
+    
     
 
