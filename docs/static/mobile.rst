@@ -10,7 +10,7 @@ mobile
 .. |CONTENT| raw:: html
 
     <form>
-    <div>Salary:<input class="field" id="salary" value="36000"></div>
+    <div>Salary:<input class="field" id="salary" value="36001"></div>
     <div>Type:<select class="field" id="type">
         <option value="1" selected>工作日</option>
         <option value="2">休息日</option>
@@ -18,10 +18,10 @@ mobile
         <option value="4">特休</option>
         <option value="5">國定假日</option>
         </select></div>
-    <div>In:<input class="field" id="in_time" type="time" step="10" value="09:00:00:AM"></div>
-    <div>Rest Start:<input class="field" id="rest_start" type="time"  value="12:00:PM"></div>
-    <div>Rest End:<input class="field" id="rest_end" type="time"  value="01:00:PM"></div>
-    <div>Out:<input class="field" id="out_time" type="time" step="10" value="05:00:00:PM"></div>
+    <div>In:<input class="field" id="in_time" type="time" step="10" value="09:00:00"></div>
+    <div>Rest Start:<input class="field" id="rest_start" type="time"  value="12:00:00"></div>
+    <div>Rest End:<input class="field" id="rest_end" type="time"  value="13:00:00"></div>
+    <div>Out:<input class="field" id="out_time" type="time" step="10" value="17:00:00"></div>
     </form>
     <div id="result"></div>
     <script language="javascript">
