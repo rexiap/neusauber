@@ -123,10 +123,10 @@
         }
         function getMinutes(str){
             var hm = str.split(':')
-            return parseInt(hm[0]) \* 60 + parseInt(hm[1])
+            return parseInt(hm[0]) * 60 + parseInt(hm[1])
         }
         function round(n){
-            return Math.round(n\*100)/100
+            return Math.round(n*100)/100
         }
         function comma1000(n){
             var s = ''+n
@@ -138,21 +138,21 @@
             var ret = []
             var e = Math.floor(s.length/3)
             for (var i=0;i<e;i++){
-                ret.push(s.substring(s.length-(i+1)\*3,s.length-i\*3))
+                ret.push(s.substring(s.length-(i+1)*3,s.length-i*3))
             }
-            if (s.length-e\*3>0) ret.push(s.substr(0,s.length-e\*3))
+            if (s.length-e*3>0) ret.push(s.substr(0,s.length-e*3))
             ret.reverse()
             return ret.join(',')+(f ? '.'+f : '')
         }
         function worker(parameters,prefix){
             var min2hour = function(m){
                 var h = Math.floor(m/60)
-                var remain = m - h \* 60
+                var remain = m - h * 60
                 return h + ((remain >= parameters.ot_min) ? parameters.ot_unit : 0) / 60
             }
             var hour_pay = parameters.salary / 240
-            var normal_day_pay = hour_pay \* 8
-            var day_minutes = 24 \* 60
+            var normal_day_pay = hour_pay * 8
+            var day_minutes = 24 * 60
             var raw_worktime_min = (day_minutes + (getMinutes(parameters.out_time) - getMinutes(parameters.in_time))) % (day_minutes)
             var worktime_min = raw_worktime_min - parseInt(parameters.rest_interval)
             //previous 8 hour
@@ -179,27 +179,27 @@
             switch(parseInt(parameters.type)){
                 case 1:
                     day_pay = 0
-                    overtime_pay = hour_pay \* 4/3 \* overtime_12_hour + hour_pay \* 5/3 \* overtime_34_hour
+                    overtime_pay = hour_pay * 4/3 * overtime_12_hour + hour_pay * 5/3 * overtime_34_hour
                     day_hour_law =  daytime_hour <= 8 ? daytime_hour : 8
                     ot_law = overtime_min ? overtime_12_hour+overtime_34_hour : 0
                     break
                 case 2:
-                    day_pay = daytime_hour <= 4 ? (hour_pay \* 4/3 \* 2+ hour_pay \* 5/3 \* 2) : (hour_pay \* 4/3 \* 2+hour_pay \* 5/3 \* 6)
+                    day_pay = daytime_hour <= 4 ? (hour_pay * 4/3 * 2+ hour_pay * 5/3 * 2) : (hour_pay * 4/3 * 2+hour_pay * 5/3 * 6)
                     //day_pay += daytime_hour >0 ? normal_day_pay : 0
-                    overtime_pay = overtime_12_hour > 0 ? hour_pay \* (1+5/3) \* 4 : 0
+                    overtime_pay = overtime_12_hour > 0 ? hour_pay * (1+5/3) * 4 : 0
                     day_hour_law = daytime_hour <= 4 ? 4 : 8
                     ot_law = overtime_12_hour> 0 ? 4 : 0
                     break
                 case 3:
                     day_pay = daytime_hour > 0 ? normal_day_pay : 0
-                    overtime_pay = hour_pay \* 2 \* overtime_12_hour + hour_pay \* 2 \* overtime_34_hour
+                    overtime_pay = hour_pay * 2 * overtime_12_hour + hour_pay * 2 * overtime_34_hour
                     day_hour_law = daytime_hour  > 0 ? 8 : 0
                     ot_law = daytime_hour <= 8 ? 0 : daytime_hour
                     break
                 case 4:
                 case 5:
                     day_pay = daytime_hour > 0 ? normal_day_pay : 0
-                    overtime_pay = hour_pay \* (4/3) \* overtime_12_hour + hour_pay \* (5/3) \* overtime_34_hour
+                    overtime_pay = hour_pay * (4/3) * overtime_12_hour + hour_pay * (5/3) * overtime_34_hour
                     day_hour_law = daytime_hour  > 0 ? 8 : 0
                     ot_law = daytime_hour <= 8 ? 0 : daytime_hour
                     break
@@ -238,3 +238,5 @@
         </script>
     
 
+
+.. bottom of content
