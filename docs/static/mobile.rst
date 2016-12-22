@@ -121,9 +121,9 @@
         var day_minutes = 24 * 60
         var raw_worktime_min = (day_minutes + (getMinutes(parameters.out_time) - getMinutes(parameters.in_time))) % (day_minutes)
         var worktime_min = raw_worktime_min - parseInt(parameters.rest_interval)
-        console.log([raw_worktime_min,worktime_min])
         //previous 8 hour
         var daytime_hour = (worktime_min  >= 480) ? 8 : worktime_min/60
+        daytime_hour = Math.round(100*daytime_hour)/100
         var daytime_12_hour = worktime_min > 120 ? 2 : min2hour(worktime_min)
         var daytime_3to8_hour =  min2hour(worktime_min-120)
         var overtime_min = (worktime_min  >= 480)  ? (worktime_min - 480) : 0
@@ -142,7 +142,7 @@
                 ot_law = daytime_hour <= 8 ? 0 : daytime_hour-8
                 break
             case 2:
-                day_pay = daytime_hour <= 4 ? (hour_pay*4/3*2+hour_pay*5/3*2) : (hour_pay*4/3*2+hour_pay*5/3*6)
+                day_pay = daytime_hour <= 4 ? (hour_pay * 4/3 * 2+ hour_pay * 5/3 * 2) : (hour_pay * 4/3 * 2+hour_pay * 5/3 * 6)
                 //day_pay += daytime_hour >0 ? normal_day_pay : 0
                 overtime_pay = overtime_12_hour > 0 ? hour_pay * 5/3 * 4 : 0
                 day_hour_law = daytime_hour <= 4 ? 4 : 8
@@ -180,6 +180,8 @@
     }
     window.addEventListener('DOMContentLoaded',init)
     </script>
+    
+    
     
     
 
