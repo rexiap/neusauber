@@ -79,15 +79,23 @@
         #result table{
             width:100%;
         }
+        #result table tr:nth-child(odd){
+            background-color:#ffffff;
+        }
+        #result table tr:nth-child(even){
+            background-color:#f0f0f0;
+        }
         #result table th{
-            background-color:white;
+            color:black;
+            background-color:transparent;
         }
         #result table td{
-            background-color:white;
             padding-left:10px;
             min-width:100px;
-    
+            color:black;
+            background-color:transparent;
         }
+    
         </style>
         <script language="javascript">
         function init(){
@@ -236,6 +244,7 @@
         }
         window.addEventListener('DOMContentLoaded',init)
         </script>
+    
     
 
 
