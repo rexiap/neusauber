@@ -14,6 +14,8 @@
 
 .. |CONTENT| raw:: html
 
+    <html>
+    <body>
             <form>
             <table id="calculator">
             <tr><th>月薪</th></tr>
@@ -29,7 +31,7 @@
             <tr><th>上班時間</th></tr>
             <tr><td><input class="field" id="in_time" type="time" value="09:00"></td></tr>
             <tr><th>下班時間</th></tr>
-            <tr><td><input class="field" id="out_time" type="time" value="18:47"></td></tr>
+            <tr><td><input class="field" id="out_time" type="time" value="18:00"></td></tr>
             <tr><th>扣除午休時間(分鐘)</th></tr>
             <tr><td>
                <div style="margin-bottom:10px">
@@ -39,9 +41,9 @@
                    <input class="field" id="rest_interval" step="10" type="range" max="120" min="0" value="60" oninput="rest_interval_value.value = rest_interval.value"></td></tr>
                </div>
             <tr><th>每一加班單位多少分鐘</th></tr>
-            <tr><td><input class="field" id="ot_unit" type="number" step="10" value="30"></td></tr>
+            <tr><td><input class="field" id="ot_unit" type="number" step="10" value="60"></td></tr>
             <tr><th>加班超過幾分鐘可算一單位</th></tr>
-            <tr><td><input class="field" id="ot_min" type="number" step="5" value="15"></td></tr>
+            <tr><td><input class="field" id="ot_min" type="number" step="5" value="30"></td></tr>
             <tr><th class="type_color" style="outline: #c0c0c0 solid thin;">本日薪資明細 <span id="over4" style="background-color:red;padding:10px;color:#f5ff59;display:none">請注意：已經超時加班</span></th></tr>
             <tr><td>
                 <div class="type_color" id="result"></div>
@@ -248,7 +250,8 @@
             }
             window.addEventListener('DOMContentLoaded',init)
             </script>
-    
+    </body>
+    </html>
     
 
 
