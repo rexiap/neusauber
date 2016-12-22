@@ -20,16 +20,16 @@
     <tr><td><input class="field" type="number" id="salary" value="36000"></td></tr>
     <tr><th>類型</th></tr>
     <tr><td><select class="field" id="type">
-        <option value="1">工作日</option>
+        <option value="1" selected>工作日</option>
         <option value="2">休息日</option>
-        <option value="3"  selected>例假日</option>
+        <option value="3">例假日</option>
         <option value="4">特休</option>
         <option value="5">國定假日</option>
         </select></td></tr>
     <tr><th>上班時間</th></tr>
     <tr><td><input class="field" id="in_time" type="time" value="09:00"></td></tr>
     <tr><th>下班時間</th></tr>
-    <tr><td><input class="field" id="out_time" type="time" value="17:00"></td></tr>
+    <tr><td><input class="field" id="out_time" type="time" value="18:00"></td></tr>
     <tr><th>扣除午休時間(分鐘)</th></tr>
     <tr><td>
        <div style="margin-bottom:10px">
