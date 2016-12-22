@@ -4,10 +4,10 @@
 加班費計算機
 ************
 
-.. _hd1b83d48586e1b393a624e28544946:
+.. _h6b5f434b414c34d3452292d6e513056:
 
-精簡版
-======
+精簡版（實驗性功能)
+===================
 
 |CONTENT|
 
@@ -104,11 +104,6 @@
     	}
     
     	var output = []
-    	/\*
-    	for (var key in parameters){
-    		output.push('<div>'+key+'='+parameters[key]+'</div>')
-    	}
-    	\*/
     	worker(parameters,output.join(''))
     }
     function getMinutes(str){
@@ -185,7 +180,6 @@
     }
     window.addEventListener('DOMContentLoaded',init)
     </script>
-    
     
     
 
