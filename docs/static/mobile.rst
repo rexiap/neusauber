@@ -94,6 +94,7 @@
             min-width:100px;
             color:black;
             background-color:transparent;
+            vertical-align:middle;
         }
     
         </style>
