@@ -4,18 +4,16 @@
 加班費計算機
 ************
 
-.. _h572187820253c7294643631303029:
+.. _h2418286291a42522581d71f4b1a61:
 
-計算單日版
-==========
+手機版 2016年12月26日
+=====================
 
 |CONTENT|
 
 
 .. |CONTENT| raw:: html
 
-    <html>
-    <body>
             <form>
             <table id="calculator">
             <tr><th>月薪</th></tr>
@@ -205,14 +203,14 @@
                         ot_law = overtime_12_hour> 0 ? 4 : 0
                         break
                     case 3:
-                        day_pay = daytime_hour > 0 ? normal_day_pay : 0
+                        day_pay = daytime_hour > 0 ? 2*normal_day_pay : 0
                         overtime_pay = hour_pay * 2 * overtime_12_hour + hour_pay * 2 * overtime_34_hour
                         day_hour_law = daytime_hour  > 0 ? 8 : 0
                         ot_law = daytime_hour <= 8 ? 0 : daytime_hour
                         break
                     case 4:
                     case 5:
-                        day_pay = daytime_hour > 0 ? normal_day_pay : 0
+                        day_pay = daytime_hour > 0 ? 2*normal_day_pay : 0
                         overtime_pay = hour_pay * (4/3) * overtime_12_hour + hour_pay * (5/3) * overtime_34_hour
                         day_hour_law = daytime_hour  > 0 ? 8 : 0
                         ot_law = daytime_hour <= 8 ? 0 : daytime_hour
@@ -250,8 +248,6 @@
             }
             window.addEventListener('DOMContentLoaded',init)
             </script>
-    </body>
-    </html>
     
 
 
