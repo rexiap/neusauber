@@ -359,7 +359,7 @@
 
 .. |LINK1| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1fSRzmk-CeNC-uiVmC-lKR1Q6WLuCpF_UgMymTR0bnps/edit?usp=sharing" target="_blank">2016年12月26日（計算單日加班費）</a>
+    <a href="https://goo.gl/21FQKg" target="_blank">2016年12月26日（計算單日加班費）</a>
 
 .. |LINK2| raw:: html
 
