@@ -30,9 +30,9 @@ https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IF
 |              |      |                                                                                         |
 |              |      |3 例假日                                                                                 |
 |              |      |                                                                                         |
-|              |      |4 休假日                                                                                 |
+|              |      |4 特休                                                                                   |
 |              |      |                                                                                         |
-|              |      |5 特休                                                                                   |
+|              |      |5 國定假日                                                                               |
 +--------------+------+-----------------------------------------------------------------------------------------+
 |clock_in      |08:00 |上班時間（打卡時間）；格式： hh:mm                                                       |
 +--------------+------+-----------------------------------------------------------------------------------------+
@@ -42,7 +42,7 @@ https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IF
 +--------------+------+-----------------------------------------------------------------------------------------+
 |ot_unit       |60    |加班計算單位（分鐘）                                                                     |
 +--------------+------+-----------------------------------------------------------------------------------------+
-|ot_min        |30    |加班超過多久便可算一個加班單位（分鐘）。例如預設是60/30的話，則 1小時35分，可算兩個小時。|
+|ot_min        |30    |超過多少分鐘便可算一個加班單位（分鐘）。例如預設是60/30的話，則 1小時35分，可算兩個小時。|
 +--------------+------+-----------------------------------------------------------------------------------------+
 
 所有參數都是選擇性的，缺乏的參數使用預設值。
@@ -131,13 +131,19 @@ JSON輸出：
 ======
 
 
-+-----------+--------------------------------------+
-|範例       |參數內容                              |
-+-----------+--------------------------------------+
-|\ |LINK2|\ |?type=1&clock_in=9:00&clock_out=19:00 |
-+-----------+--------------------------------------+
-|\ |LINK3|\ |?type=2&clock_in=09:00&clock_out=19:00|
-+-----------+--------------------------------------+
++-----------+------------------------------------------------------------------------+
+|範例       |參數內容                                                                |
++-----------+------------------------------------------------------------------------+
+|\ |LINK2|\ |?type=1&clock_in=9:00&clock_out=19:00                                   |
++-----------+------------------------------------------------------------------------+
+|\ |LINK3|\ |?type=2&clock_in=09:00&clock_out=19:00&salary=22000                     |
++-----------+------------------------------------------------------------------------+
+|\ |LINK4|\ |?type=3&clock_in=09:00&clock_out=22:00&salary=22000                     |
++-----------+------------------------------------------------------------------------+
+|\ |LINK5|\ |?type=4&clock_in=08:00&clock_out=22:00&salary=22000&break_duration=120  |
++-----------+------------------------------------------------------------------------+
+|\ |LINK6|\ |?type=5&clock_in=09:00&clock_out=22:00&salary=22000&ot_unit=30&ot_min=15|
++-----------+------------------------------------------------------------------------+
 
 
 .. bottom of content
@@ -153,5 +159,17 @@ JSON輸出：
 
 .. |LINK3| raw:: html
 
-    <a href="https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IFvNOkGavXT7C/exec?type=2&clock_in=09:00&clock_out=19:00" target="_blank">休息日0900-1200</a>
+    <a href="https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IFvNOkGavXT7C/exec?type=2&clock_in=09:00&clock_out=19:00&salary=22000" target="_blank">休息日0900-1900，薪22K</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IFvNOkGavXT7C/exec?type=3&clock_in=09:00&clock_out=22:00&salary=22000" target="_blank">例假日0900-2200，薪22K</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IFvNOkGavXT7C/exec?type=4&clock_in=08:00&clock_out=22:00&salary=22000&break_duration=120" target="_blank">特休0800-2200，薪22K，中間休息2小時</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IFvNOkGavXT7C/exec?type=5&clock_in=09:00&clock_out=21:46&salary=22000&ot_unit=30&ot_min=15" target="_blank">國定假日0900-21:46，薪22K；以30分鐘為一個加班單位，超過15分鐘可算一個加班單位</a>
 
