@@ -137,7 +137,7 @@ JSON輸出：
     $ wget -qO- "https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IFvNOkGavXT7C/exec" 2>/dev/null
     
     # dump to stdout
-    $curl -Lvs "https://script.google.comC0vcl9WMF2yAmlUlzeh_IFvNOkGavXT7C/exec" 2>/dev/null
+    $ curl -Lvs "https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IFvNOkGavXT7C/exec" 2>/dev/null
     
 
 .. _hd1b83d48586e1b393a624e28544946:
