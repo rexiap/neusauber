@@ -4,7 +4,7 @@
 加班費計算機API
 ***************
 
-使用 Google App Script，以Web API的方式提供一例一休新制加班費計算功能。本版API使用與\ |LINK1|\ 相同的Javascript Library。
+使用 Google App Script，以Web API的方式提供一例一休新制加班費計算功能。本版API使用與\ |LINK1|\ 相同的Javascript Library。（版本：20161229）
 
 .. _h45554b4844d4f3329d10721d56617e:
 
