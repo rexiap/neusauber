@@ -127,6 +127,17 @@ JSON輸出：
 
 .. _hd1b83d48586e1b393a624e28544946:
 
+測試：
+======
+
+
+.. code:: 
+
+    $ wget -qO- "https://script.google.com/macros/s/AKfycbwmt2Z4GLwNsEncFJRC0vcl9WMF2yAmlUlzeh_IFvNOkGavXT7C/exec" 2>/dev/null
+    
+
+.. _hd1b83d48586e1b393a624e28544946:
+
 範例：
 ======
 
