@@ -13,4 +13,4 @@ AR600 DM
 
 .. |REPLACE1| raw:: html
 
-    <img src="/docs/static/DM_V01.jpg"/>
+    <img src="../static/DM_V01.jpg"/>
