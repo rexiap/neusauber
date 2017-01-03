@@ -1,0 +1,16 @@
+
+.. _h112c1e4d2b1d78424f1c6b2f291f6f67:
+
+AR600 DM
+********
+
+
+|REPLACE1|
+
+
+.. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <img src="/docs/static/DM_V01.jpg"/>
