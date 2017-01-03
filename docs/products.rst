@@ -39,7 +39,7 @@
 AR600鋼材、鑄鐵、裝置藝術等(特長效版)
 =====================================
 
-\ |LINK1|\ 
+\ |LINK1|\  \ |LINK2|\ 
 
 本劑可填滿金屬表層毛細孔強化防鏽,或將原有的鐵鏽轉成鈍化護膜。
 
@@ -79,7 +79,7 @@ AR600C 銅、青銅、鑄鐵、文物、古物專用
 AR600E鋼材、鑄鐵、裝置藝術等(長效版)
 ====================================
 
-\ |LINK2|\ 
+\ |LINK3|\ 
 
 從現在起,您的模具工廠也可以跟日本、德國現代化的模具工廠一樣清新乾淨。 您是否因防鏽油、黃油、藍丹、紅丹產生的問題而困擾。傳統台廠的模具保養 方式,造成模具油膩膩沾滿灰塵,空氣中充滿油騷味,衣物沾惹油污。模具使 用前需使用去油清潔劑強力洗淨,吹乾等繁瑣手續。這些問題都將因為AR600E 在台自行研發成功而獲得解決。
 
@@ -88,7 +88,7 @@ AR600E鋼材、鑄鐵、裝置藝術等(長效版)
 AR600M模具專用
 ==============
 
-\ |LINK3|\ 
+\ |LINK4|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -104,7 +104,7 @@ AR600M模具專用
 SV500汽車鍍膜(快速施工版)
 =========================
 
-\ |LINK4|\ 
+\ |LINK5|\ 
 
 本產品可在汽擋玻璃、後照 鏡、前後 窗等玻璃,使玻璃具備撥水性與防油性,時時維護視線清晰。也可使用在車身鈑件,使不易吸塵,若附著塵 也容易清除,維護容易潔亮清爽。
 
@@ -121,7 +121,7 @@ SV500汽車鍍膜(快速施工版)
 SV600汽車鍍膜
 =============
 
-\ |LINK5|\ 
+\ |LINK6|\ 
 
 本產品可在汽擋玻璃、後照鏡、前後窗等玻璃,使玻璃具備撥水性與防油性,耐雨刷磨耗能力高,時時維護視線清晰。也可使用在車身鈑件,使不易吸塵,若附著塵 也容易清除,維護容易潔亮清爽。
 
@@ -153,24 +153,30 @@ SV600T大樓外牆磁磚、浴室等
 本公司產品可應用於金屬、玻璃、陶瓷等材質，可依據行業需求訂製特規產品，歡迎各行業來電洽詢。
 
 
+.. bottom of content
+
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.neusauber.com/docs/AR600/dm.pdf" target="_blank">下載型錄</a>
+    <a href="http://www.neusauber.com/docs/AR600/dm.pdf" target="_blank">下載型錄一</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.neusauber.com/docs/AR600/dm.pdf" target="_blank">下載型錄</a>
+    <a href="blogs/AR600DM02.html">下載型錄二</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.neusauber.com/docs/AR600M/dm.pdf" target="_blank">下載型錄</a>
+    <a href="http://www.neusauber.com/docs/AR600/dm.pdf" target="_blank">下載型錄</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.neusauber.com/docs/SV/SV500DataSheet.pdf" target="_blank">下載型錄</a>
+    <a href="http://www.neusauber.com/docs/AR600M/dm.pdf" target="_blank">下載型錄</a>
 
 .. |LINK5| raw:: html
+
+    <a href="http://www.neusauber.com/docs/SV/SV500DataSheet.pdf" target="_blank">下載型錄</a>
+
+.. |LINK6| raw:: html
 
     <a href="http://www.neusauber.com/docs/SV/SV600DataSheet.pdf" target="_blank">下載型錄</a>
 
