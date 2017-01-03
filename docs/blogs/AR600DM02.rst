@@ -4,6 +4,6 @@
 AR600 DM
 ********
 
-\ |IMG1|\ .. |IMG1| image:: static/AR600DM02_1.jpg    :target: static/AR600DM02_1.jpg
+\ |IMG1|\ .. |IMG1| image:: static/AR600DM02_1.jpg    :target: http://neusauber.readthedocs.io/en/latest/_images/AR600DM02_1.jpg
 
 .. bottom of content
