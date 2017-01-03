@@ -16,9 +16,10 @@
     documents
     photoswall
     blogs/ar600intro
+    blogs/AR600CAntiCopper
+    blogs/AR600DM02
     blogs/howcrust
     blogs/whyrust
-    blogs/AR600CAntiCopper
     projects/overtimepaycal
 
 .. _h7c3f275a36264d7b12797d7a6f2a3d43:
