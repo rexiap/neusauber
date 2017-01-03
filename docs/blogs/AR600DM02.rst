@@ -4,13 +4,6 @@
 AR600 DM
 ********
 
-
-|REPLACE1|
-
+\ |IMG1|\ .. |IMG1| image:: static/AR600DM02_1.jpg
 
 .. bottom of content
-
-
-.. |REPLACE1| raw:: html
-
-    <img src="../static/DM_V01.jpg"/>
