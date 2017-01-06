@@ -45,7 +45,7 @@ SV500施工汽車
 .. |IMG1| image:: static/videos_1.png
    :height: 174 px
    :width: 302 px
-   :target: https://www.youtube.com/watch?v=eIx9JPzWINQ
+   :target: https://youtu.be/pUTzlIXNIFU
 
 .. |IMG2| image:: static/videos_2.png
    :height: 174 px
