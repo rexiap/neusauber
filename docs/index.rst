@@ -38,15 +38,9 @@ All kinds of metal materials would be damaged on surface after transportation, c
 
 \ |IMG1|\ 
 
-\ |IMG2|\ 
-
 .. bottom of content
 
 .. |IMG1| image:: static/index_1.png
-   :height: 300 px
-   :width: 444 px
-
-.. |IMG2| image:: static/index_2.png
    :height: 40 px
    :width: 221 px
    :target: https://www.facebook.com/neusauber
