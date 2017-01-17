@@ -38,8 +38,18 @@ All kinds of metal materials would be damaged on surface after transportation, c
 
 \ |IMG1|\ 
 
+
+|REPLACE1|
+
+
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <script>
+    document.title = "意杰國際"
+    </script>
 .. |IMG1| image:: static/index_1.png
    :height: 40 px
    :width: 221 px
