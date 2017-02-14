@@ -13,3 +13,7 @@
 ul.wy-breadcrumbs li.wy-breadcrumbs-aside{
     display:none;/*hide github editor*/
 }
+
+table p {
+   margin-bottom: inherit;
+}
