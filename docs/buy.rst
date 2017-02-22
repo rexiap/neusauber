@@ -12,8 +12,6 @@
 限期優惠
 ========
 
-AR全系列商品八五折限時優惠中。
-
 採匯款預付者可另減免貨到付款手續費。
 
 .. _h1634483c7822441972316c7301545:
@@ -58,12 +56,12 @@ AR全系列商品八五折限時優惠中。
 
 .. |REPLACE1| raw:: html
 
-    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <table cellspacing="0" cellpadding="0" style="width:75%">
     <tbody>
-    <tr><td style="width:25%;background-color:#999999;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="color:#ffffff"><span  style="color:#ffffff">項目</span></p></td><td style="width:25%;background-color:#999999;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="color:#ffffff"><span  style="color:#ffffff">說明</span></p></td><td style="width:25%;background-color:#999999;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="color:#ffffff"><span  style="color:#ffffff">規格</span></p></td><td style="width:25%;background-color:#999999;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="color:#ffffff"><span  style="color:#ffffff">價格（未稅）</span></p></td></tr>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>AR600透明防鏽劑</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>特長效</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>1加侖包裝</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>3,000 NTD</p></td></tr>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>AR600E透明防鏽劑</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>長效</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>1加侖包裝</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>2,000 NTD</p></td></tr>
-    <tr><td colspan="4" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>*其他品項請電洽本公司</p></td></tr>
+    <tr><td style="width:33%;background-color:#999999;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="color:#ffffff"><span  style="color:#ffffff">項目</span></p></td><td style="width:33%;background-color:#999999;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="color:#ffffff"><span  style="color:#ffffff">說明</span></p></td><td style="width:33%;background-color:#999999;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="color:#ffffff"><span  style="color:#ffffff">規格</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>AR600透明防鏽劑</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>特長效</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>1加侖包裝</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>AR600E透明防鏽劑</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>長效</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>1加侖包裝</p></td></tr>
+    <tr><td colspan="3" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>*報價請電洽本公司 (03) 365-9119</p></td></tr>
     </tbody></table>
 
 .. |REPLACE2| raw:: html
