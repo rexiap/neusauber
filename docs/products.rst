@@ -56,5 +56,5 @@ Allsome SV500 Vehicle Protect Coating
     }
     </style>
 .. |IMG1| image:: static/products_1.png
-   :height: 194 px
-   :width: 157 px
+   :height: 265 px
+   :width: 216 px
