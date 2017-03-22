@@ -48,7 +48,7 @@ Rohs, VOCs, FDA certificated by SGS
 
     <style>
     td {
-       border: solid 1 #ffffff !important;
+       border: solid 1px #ffffff !important;
     }
     </style>
 .. |REPLACE2| raw:: html
