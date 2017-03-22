@@ -6,25 +6,31 @@ Products
 
  
 
- 
+|REPLACE1|
 
-Neusauber AR Transparent Rust Inhibitor
+.. _h2c1d74277104e41780968148427e:
 
-* Totally Anti rust
 
-* Quickly Stop rust reaction
 
-* Easy Treats without remove rusted layer
 
-* Thin transparency protect film
 
-* Multiple apply method
++-----------------------------------------+----------+
+|AR Transparent Rust Inhibitor            |\ |IMG1|\ |
+|                                         |          |
+|* Totally Anti rust                      |          |
+|                                         |          |
+|* Quickly Stop rust reaction             |          |
+|                                         |          |
+|* Easy Treats without remove rusted layer|          |
+|                                         |          |
+|* Thin transparency protect film         |          |
+|                                         |          |
+|* Multiple apply method                  |          |
+|                                         |          |
+|* Saving cost                            |          |
++-----------------------------------------+----------+
 
-* Saving cost
-
-AR Transparent Rust Inhibitor is solvent base chemical agent, providing anti rust thin transparent protective film for covered surface. Wide range of applications, for example, new or rusted metal frame. It can make new material surface survived over 20 months without any weight loss in ISO 9223 C5 corrosive environment. Also improve D grade rusted (by SIS-05-5900) parts to A grade immediately, and stay the same for 6 months in C5 corrosive environment.
-
-Rohs, VOCs, FDA certificated by SGS
+AR Transparent Rust Inhibitor is solvent base chemical agent, providing anti rust thin transparent protective film for covered surface. Wide range of applications, for example, new or rusted metal frame. It can make new material surface survived over 20 months without any weight loss in ISO 9223 C5 corrosive environment. Also improve D grade rusted (by SIS-05-5900) parts to A grade immediately, and stay the same for 6 months in C5 corrosive environment. Rohs, VOCs, FDA certificated by SGS
 
 Allsome SV500 Vehicle Protect Coating 
 
@@ -40,3 +46,15 @@ Allsome SV500 Vehicle Protect Coating
 
 
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <style>
+    td {
+       border: solid 1px #ffffff !important;
+    }
+    </style>
+.. |IMG1| image:: static/products_1.png
+   :height: 194 px
+   :width: 157 px
