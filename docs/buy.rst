@@ -20,9 +20,9 @@ Contact us
 |                            |                         |
 |D-60549, Frankfurt          |Honeywell Court (Door 31)|
 |                            |                         |
-|Germany                     |45424-5760, Dayton,      |
+|Germany                     |45424-5760, Dayton, OHIO |
 |                            |                         |
-|+49-3222-1095964            |OHIO, Unite States       |
+|+49-3222-1095964            |Unite States             |
 |                            |                         |
 |service@neusauber.com       |+1-937-8896246           |
 |                            |                         |
