@@ -1,39 +1,17 @@
 
-.. _h151e484c7f8807680923215a783129:
+.. _h713c212831196d13f633212181666e:
 
-應用圖輯
-*********
+News
 
-戶外停車場鐵件
+*****
 
-\ |IMG1|\ 
+* Famous bicycle components maker, upgrade corrosion resistance of surface treatment such as anodizing, electroless nickel plating, e-coating, MAO by AR Transparent rust inhibitor.
 
-圖中鐵桿灰色區域是傳統防鏽漆，上方是AR600的施工區，由本圖可見使用AR600的質感比傳統防鏽漆的質感優越。
+* Japanese chemical company applied AR Transparent rust inhibitor on all the valves, screws, hot pipes in their seacoast facility.
 
-\ |IMG2|\ 
+* Well know production line maker of electronic industry in Taiwan, promote AR Transparent rust inhibitor to his customers for protecting their production line and saving maintain cost. 
 
-消防設施鏽蝕在平常看不出來，一旦事故發生，就可以看出平時有無保養的差異。下圖為AR600在已經鏽蝕的消防設施進行補強的施工。
+* One of Apple’s  component supplier in Japan, who uesd AR Transparent rust inhibitor to protect all the production line. 
 
-\ |IMG3|\ 
-
-鐵門在戶外風吹日曬，是非常需要保養的地方，尤其是其中機電的部分。
-
-\ |IMG4|\ 
 
 .. bottom of content
-
-.. |IMG1| image:: static/photoswall_1.png
-   :height: 502 px
-   :width: 376 px
-
-.. |IMG2| image:: static/photoswall_2.png
-   :height: 440 px
-   :width: 386 px
-
-.. |IMG3| image:: static/photoswall_3.png
-   :height: 265 px
-   :width: 392 px
-
-.. |IMG4| image:: static/photoswall_4.png
-   :height: 512 px
-   :width: 394 px
