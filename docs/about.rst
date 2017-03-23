@@ -6,7 +6,7 @@ About
 
 \ |IMG1|\ 
 
-Neusauber is a company who focus on new generation surface technology development. Our products cover aerospace, chemical, agriculture, mechanical, petroleum, Textile, metal material industries. All products sales to worldwide. 
+Neusauber is the company who focus on new generation surface technology development. Our products cover aerospace, chemical, agriculture, mechanical, petroleum, Textile, metal material industries. All products sales to worldwide. 
 
 
 .. bottom of content
