@@ -7,6 +7,14 @@
 
 戶外停車場鐵件
 
+* Famous bicycle components maker, upgrade corrosion resistance of surface treatment such as anodizing, electroless nickel plating, e-coating, MAO by AR Transparent rust inhibitor.
+
+* Japanese chemical company applied AR Transparent rust inhibitor on all the valves, screws, hot pipes in their seacoast facility.
+
+* Well know production line maker of electronic industry in Taiwan, promote AR Transparent rust inhibitor to his customers for protecting their production line and saving maintain cost. 
+
+* One of Apple’s  component supplier in Japan, who uesd AR Transparent rust inhibitor to protect all the production line. 
+
 \ |IMG1|\ 
 
 圖中鐵桿灰色區域是傳統防鏽漆，上方是AR600的施工區，由本圖可見使用AR600的質感比傳統防鏽漆的質感優越。
