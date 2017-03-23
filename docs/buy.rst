@@ -24,7 +24,7 @@ Contact us
 |                            |                         |
 |+49-3222-1095964            |OHIO, Unite States       |
 |                            |                         |
-|service@neusauber.com       |+1-937-8896246           |
+|\ |LINK1|\                  |+1-937-8896246           |
 |                            |                         |
 |                            |service@neusauber.com    |
 +----------------------------+-------------------------+
@@ -52,3 +52,8 @@ Contact us
        border: solid 1px #ffffff !important;
     }
     </style>
+
+.. |LINK1| raw:: html
+
+    <a href="mailto:service@neusauber.com">service@neusauber.com</a>
+
