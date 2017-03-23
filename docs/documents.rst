@@ -5,6 +5,14 @@ News
 ****
 
 
+|REPLACE1|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |* Famous bicycle components maker, upgrade corrosion resistance of surface treatment such as anodizing, electroless nickel plating, e-coating, MAO by AR Transparent rust inhibitor.      |
 |                                                                                                                                                                                          |
@@ -17,3 +25,12 @@ News
 
 
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <style>
+    td {
+       border: solid 1px #ffffff !important;
+    }
+    </style>
