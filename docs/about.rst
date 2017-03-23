@@ -6,11 +6,7 @@ About
 
 \ |IMG1|\ 
 
-E sail is a company who focus on new generation surface technology development. Our products cover aerospace, chemical, agriculture, mechanical, petroleum, Textile, metal material industries. All products sales to worldwide. 
-
-Neusauber is a brand for industrial used.
-
-Allsome is a brand for house keeping.
+Neusauber is a company who focus on new generation surface technology development. Our products cover aerospace, chemical, agriculture, mechanical, petroleum, Textile, metal material industries. All products sales to worldwide. 
 
 
 .. bottom of content
@@ -18,4 +14,3 @@ Allsome is a brand for house keeping.
 .. |IMG1| image:: static/about_1.png
    :height: 132 px
    :width: 120 px
-   :target: http://www.neusauber.com/pages/about.html
