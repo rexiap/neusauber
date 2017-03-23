@@ -5,6 +5,14 @@ Contact us
 **********
 
 
+|REPLACE1|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+
 +----------------------------+-------------------------+
 |Europe                      |North America            |
 +----------------------------+-------------------------+
@@ -35,3 +43,12 @@ Contact us
 
 
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <style>
+    td {
+       border: solid 1px #ffffff !important;
+    }
+    </style>
