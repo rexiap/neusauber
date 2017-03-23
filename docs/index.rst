@@ -61,7 +61,7 @@ Rohs, VOCs, FDA certificated by SGS
 .. |REPLACE3| raw:: html
 
     <script>
-    document.title = "意杰國際"
+    document.title = "Neusauber"
     </script>
 .. |IMG1| image:: static/index_1.png
    :height: 277 px
