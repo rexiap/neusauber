@@ -9,9 +9,10 @@ AR Transparent Rust Inhibitors
     :maxdepth: 2
     :hidden:
 
-    about
+    
     products
     documents
+    about
     buy
 
 
