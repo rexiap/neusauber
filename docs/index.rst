@@ -12,10 +12,8 @@ AR Transparent Rust Inhibitors
     about
     products
     buy
-    videos
     documents
     photoswall
-    
 
 
 |REPLACE1|
