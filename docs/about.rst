@@ -1,12 +1,14 @@
 
-.. _h717f4c1c195c733663d10543562506a:
+.. _h3c62191b54499b3c1636574a798:
 
-About
-*****
+About Neusauber
+***************
 
 \ |IMG1|\ 
 
-Neusauber is the company who focus on new generation surface technology development. Our products cover aerospace, chemical, agriculture, mechanical, petroleum, Textile, metal material industries. All products sales to worldwide. 
+Neusauber is the company who focus on new generation surface technology development. Diverse products applied on aerospace, chemical, agriculture, mechanical, petroleum, Textile, metal material industries.
+
+Neusauber provide chemical products, constructions, consultants and solutions for industrial customers. 
 
 
 .. bottom of content
