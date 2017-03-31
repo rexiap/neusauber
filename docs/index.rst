@@ -38,7 +38,7 @@ Rohs, VOCs, FDA verificated by SGS
 
 |REPLACE3|
 
-    ARPrimer Transparent Rust Inhibitor is solvent base chemical agent, providing metal/rust conversion substrate for adhesive with paints. Suit for wide range of paints system ex. Epoxy, PU, PET. All kinds of metal or rust surface can be treated with ARPrimer Transparent Rust Inhibitor and paint to against/stop rust or corrosion.
+    ARPrimer Transparent Rust Inhibitor is solvent base chemical agent, providing metal/rust conversion substrate for adhesive with paints. Suit for wide range of paint system ex. Epoxy, PU, PET. All kinds of metal or rust surface can be treated with ARPrimer Transparent Rust Inhibitor and paint to against/stop rust or corrosion.
 
     Rohs, VOCs, FDA verificated by SGS
 
