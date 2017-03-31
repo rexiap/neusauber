@@ -20,9 +20,21 @@ Products
 
     Rohs, VOCs, FDA verificated by SGS
 
- 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 
 |REPLACE3|
+
+    ARPrimer Transparent Rust Inhibitor is solvent base chemical agent, providing metal/rust conversion substrate for adhesive with paints. Suit for wide range of paints system ex. Epoxy, PU, PET. All kinds of metal or rust surface can be treated with ARPrimer Transparent Rust Inhibitor and paint to against/stop rust or corrosion.
+
+    Rohs, VOCs, FDA verificated by SGS
+
+ 
+
+|REPLACE4|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -30,7 +42,7 @@ Products
 
 
 
-|REPLACE4|
+|REPLACE5|
 
  
 
@@ -54,12 +66,19 @@ Products
 
 .. |REPLACE3| raw:: html
 
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="color:#38761d"><span  style="color:#38761d">ARPrimer Transparent Rust Inhibitor</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Totally anti rust</li><li style="list-style:inherit;list-style-image:inherit">Quickly stop rust reaction</li><li style="list-style:inherit;list-style-image:inherit">Easy treats without remove rusted layer</li><li style="list-style:inherit;list-style-image:inherit">Thin transparency protect film</li><li style="list-style:inherit;list-style-image:inherit">Multiple apply method</li><li style="list-style:inherit;list-style-image:inherit">Suite for all kinds of paints</li><li style="list-style:inherit;list-style-image:inherit">Treat then paint system</li><li style="list-style:inherit;list-style-image:inherit">Saving time and cost</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/products_1.png" style="width:216px;height:265px;vertical-align: baseline;"></p></td></tr>
+    </tbody></table>
+
+.. |REPLACE4| raw:: html
+
     <style>
     td {
        border: solid 1px #ffffff !important;
     }
     </style>
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -67,5 +86,9 @@ Products
     </tbody></table>
 
 .. |IMG1| image:: static/products_1.png
+   :height: 265 px
+   :width: 216 px
+
+.. |IMG2| image:: static/products_1.png
    :height: 265 px
    :width: 216 px
