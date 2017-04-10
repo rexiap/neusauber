@@ -68,7 +68,7 @@ Products
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="color:#38761d"><span  style="color:#38761d">ARPrimer Transparent Rust Inhibitor</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Totally anti rust</li><li style="list-style:inherit;list-style-image:inherit">Quickly stop rust reaction</li><li style="list-style:inherit;list-style-image:inherit">Easy treats without remove rusted layer</li><li style="list-style:inherit;list-style-image:inherit">Thin transparency protect film</li><li style="list-style:inherit;list-style-image:inherit">Multiple apply method</li><li style="list-style:inherit;list-style-image:inherit">Suite for all kinds of paints</li><li style="list-style:inherit;list-style-image:inherit">Treat then Paint system</li><li style="list-style:inherit;list-style-image:inherit">Saving time and cost</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/products_1.png" style="width:216px;height:265px;vertical-align: baseline;"></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="color:#38761d"><span  style="color:#38761d">ARPrimer Transparent Rust Inhibitor</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Totally anti rust</li><li style="list-style:inherit;list-style-image:inherit">Quickly stop rust reaction</li><li style="list-style:inherit;list-style-image:inherit">Easy treats without remove rusted layer</li><li style="list-style:inherit;list-style-image:inherit">Thin transparency protect film</li><li style="list-style:inherit;list-style-image:inherit">Multiple apply method</li><li style="list-style:inherit;list-style-image:inherit">Suite for all kinds of paints</li><li style="list-style:inherit;list-style-image:inherit">Treat then Paint system</li><li style="list-style:inherit;list-style-image:inherit">Saving time and cost</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/products_2.png" style="width:216px;height:265px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
 .. |REPLACE4| raw:: html
@@ -89,6 +89,6 @@ Products
    :height: 265 px
    :width: 216 px
 
-.. |IMG2| image:: static/products_1.png
+.. |IMG2| image:: static/products_2.png
    :height: 265 px
    :width: 216 px
