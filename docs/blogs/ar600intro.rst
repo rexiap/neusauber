@@ -7,7 +7,7 @@
 
 .. |REPLACE1| raw:: html
 
-    <script language=”javascript”>
+    <script language="javascript">
     var url = '/'
     location.href = url
     </script>
