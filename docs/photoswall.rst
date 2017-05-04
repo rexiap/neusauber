@@ -23,13 +23,19 @@ Allsome SV500 汽車雙效鍍膜
 
 \ |IMG1|\ 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3EMFXS87VDY" frameborder="0" allowfullscreen></iframe>
+
+|REPLACE1|
 
 操作
 
 
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    (html tags to embed)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3EMFXS87VDY" frameborder="0" allowfullscreen></iframe>
 .. |IMG1| image:: static/photoswall_1.png
    :height: 138 px
    :width: 249 px
