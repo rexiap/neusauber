@@ -33,24 +33,27 @@ Allsome SV500 汽車雙效鍍膜
 
 |REPLACE6|
 
+
+|REPLACE7|
+
 .. _h2c1d74277104e41780968148427e:
 
 
 
-
-
-|REPLACE7|
 
 
 |REPLACE8|
 
+
+|REPLACE9|
+
 .. _h2c1d74277104e41780968148427e:
 
 
 
 
 
-|REPLACE9|
+|REPLACE10|
 
 
 .. bottom of content
@@ -67,7 +70,7 @@ Allsome SV500 汽車雙效鍍膜
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="width:56%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="color:#38761d"><span  style="color:#38761d">特性</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">適用全車所有材質 </li><li style="list-style:inherit;list-style-image:inherit">不含氟化物(PFCs)、有害物質(RoHS)環保配方</li><li style="list-style:inherit;list-style-image:inherit">上膜快速、簡單、省力</li><li style="list-style:inherit;list-style-image:inherit">長效保護</li><li style="list-style:inherit;list-style-image:inherit">前擋/後視鏡防油、撥水</li><li style="list-style:inherit;list-style-image:inherit">提高車身亮度、不易髒</li></ul></td><td style="width:44%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/photoswall_1.png" style="width:193px;height:240px;vertical-align: baseline;"></p></td></tr>
+    <tr><td style="width:61%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="color:#38761d"><span  style="color:#38761d">特性</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">適用全車所有材質 </li><li style="list-style:inherit;list-style-image:inherit">不含氟化物(PFCs)、有害物質(RoHS)環保配方</li><li style="list-style:inherit;list-style-image:inherit">上膜快速、簡單、省力</li><li style="list-style:inherit;list-style-image:inherit">超長效保護</li><li style="list-style:inherit;list-style-image:inherit">前擋/後視鏡防油、撥水</li><li style="list-style:inherit;list-style-image:inherit">提高車身亮度、不易髒</li></ul></td><td style="width:39%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/photoswall_1.png" style="width:193px;height:240px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
 .. |REPLACE3| raw:: html
@@ -89,26 +92,29 @@ Allsome SV500 汽車雙效鍍膜
 
 .. |REPLACE6| raw:: html
 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HtV1piOmcfI" frameborder="0" allowfullscreen></iframe>
+.. |REPLACE7| raw:: html
+
     <style>
     td {
        border: solid 1px #ffffff !important;
     }
     </style>
-.. |REPLACE7| raw:: html
+.. |REPLACE8| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
     <tr><td style="width:45%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="color:#38761d"><span  style="color:#38761d">膜層固化</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-size:10px">自然空乾 1小時表乾(可交車或行駛)</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-size:10px">72小時特性完全</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-size:10px">施作前擋後72小時內，盡量不使用雨刷</span></li></ul><p style="color:#38761d;font-size:10px"><p style="color:#38761d"><span  style="color:#38761d">膜層維護</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-size:10px">用清水沖洗或擰乾抹布擦拭即可，無需再使用任何清潔劑</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-size:10px">前檔處理後請勿使用雨刷精</span></li></ul><p></td><td style="width:55%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="color:#38761d"><span  style="color:#38761d">注意事項</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-size:10px">用量極省，有抹到就有效果，一次不要倒太多</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-size:10px">在特性完全之前，請勿洗車或用力刷磨施作區域</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-size:10px">施作時請注意環境通風。請勿接觸眼睛或飲用，若不慎接觸眼睛或飲用，請以大量水沖洗或吞服，若仍不適請立即就醫諮詢或診療</span></li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE8| raw:: html
+.. |REPLACE9| raw:: html
 
     <style>
     td {
        border: solid 1px #ffffff !important;
     }
     </style>
-.. |REPLACE9| raw:: html
+.. |REPLACE10| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
