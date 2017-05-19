@@ -8,10 +8,10 @@ Products
 
 |REPLACE1|
 
-.. _h2c1d74277104e41780968148427e:
+.. _ha552d4339442b4514686d7839564:
 
-
-
+\ |LINK1|\ 
+===========
 
 
 |REPLACE2|
@@ -82,6 +82,12 @@ Products
     <tbody>
     <tr><td style="width:69%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="color:#38761d"><span  style="color:#38761d">Allsome SV500 Vehicle Protect Coating </span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">All materials used of vehicle </li><li style="list-style:inherit;list-style-image:inherit">Hydrophobic layer without PFCs</li><li style="list-style:inherit;list-style-image:inherit">Quick Apply system</li><li style="list-style:inherit;list-style-image:inherit">Easily maintain surface </li><li style="list-style:inherit;list-style-image:inherit">Keeping surface clean and shining with long time</li></ul><p></td><td style="width:31%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td></tr>
     </tbody></table>
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://www.neusauber.com/en/latest/videos.html" target="_blank">中文</a>
+
 
 .. |IMG1| image:: static/products_1.png
    :height: 265 px
