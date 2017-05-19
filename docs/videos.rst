@@ -83,9 +83,9 @@ AR/ARPrimer 透明防鏽劑
     }
     </style>
 .. |IMG1| image:: static/videos_1.png
-   :height: 265 px
-   :width: 216 px
+   :height: 238 px
+   :width: 193 px
 
 .. |IMG2| image:: static/videos_2.png
-   :height: 265 px
-   :width: 216 px
+   :height: 220 px
+   :width: 188 px
