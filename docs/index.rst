@@ -22,6 +22,10 @@ AR Transparent Rust Inhibitor
 
 \ |IMG2|\ 
 
+\ |IMG3|\ 
+
+\ |IMG4|\ 
+
 
 |REPLACE2|
 
@@ -46,5 +50,13 @@ AR Transparent Rust Inhibitor
    :width: 697 px
 
 .. |IMG2| image:: static/index_2.png
+   :height: 524 px
+   :width: 697 px
+
+.. |IMG3| image:: static/index_3.png
+   :height: 524 px
+   :width: 697 px
+
+.. |IMG4| image:: static/index_4.png
    :height: 524 px
    :width: 697 px
