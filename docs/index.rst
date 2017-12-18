@@ -18,7 +18,9 @@ AR Transparent Rust Inhibitor
 
 |REPLACE1|
 
-\ |IMG1|\ \ |IMG2|\ 
+\ |IMG1|\ 
+
+\ |IMG2|\ 
 
 
 |REPLACE2|
