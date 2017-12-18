@@ -12,13 +12,16 @@ AR/ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
 
 
 
-\ |IMG1|\ 
 
-\ |IMG2|\ 
++----------+
+|\ |IMG1|\ |
++----------+
+|          |
++----------+
 
 
 +----------+
-|\ |IMG3|\ |
+|\ |IMG2|\ |
 |          |
 +----------+
 
@@ -77,13 +80,9 @@ AR/ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
     </style>
     
 .. |IMG1| image:: static/videos_1.png
-   :height: 524 px
-   :width: 697 px
+   :height: 512 px
+   :width: 682 px
 
 .. |IMG2| image:: static/videos_2.png
-   :height: 524 px
-   :width: 697 px
-
-.. |IMG3| image:: static/videos_3.png
    :height: 461 px
    :width: 698 px
