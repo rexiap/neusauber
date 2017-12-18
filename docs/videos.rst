@@ -16,15 +16,16 @@ AR/ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
 +----------+
 |\ |IMG1|\ |
 +----------+
-|          |
+|\ |IMG2|\ |
 +----------+
 
-\ |IMG2|\ 
+\ |IMG3|\ 
 
 
 +----------+
-|\ |IMG3|\ |
-|          |
+|\ |IMG4|\ |
++----------+
+|\ |IMG5|\ |
 +----------+
 
     AR透明防鏽劑 溶劑型化學反應劑，具止鏽能力，並透過透明超薄膜層提供全方位防鏽保護，不論無鏽新品或生鏽表面皆可使用.防鏽能力於ISO 9223 C5等級海岸腐蝕環境可達2年半，一般自然環境高達7年.止鏽能力可將瑞典標準SIS-05-5900 等級D之鏽蝕，提升至等級Ａ
@@ -83,12 +84,20 @@ AR/ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
     
 .. |IMG1| image:: static/videos_1.png
    :height: 512 px
-   :width: 682 px
+   :width: 681 px
 
 .. |IMG2| image:: static/videos_2.png
+   :height: 512 px
+   :width: 682 px
+
+.. |IMG3| image:: static/videos_3.png
    :height: 524 px
    :width: 697 px
 
-.. |IMG3| image:: static/videos_3.png
+.. |IMG4| image:: static/videos_4.png
    :height: 461 px
    :width: 698 px
+
+.. |IMG5| image:: static/videos_5.png
+   :height: 521 px
+   :width: 694 px
