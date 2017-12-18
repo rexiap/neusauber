@@ -26,9 +26,6 @@ AR Transparent Rust Inhibitor
 \ |IMG1|\ \ |IMG2|\ 
 
 
-|REPLACE2|
-
-
 .. bottom of content
 
 
@@ -39,11 +36,6 @@ AR Transparent Rust Inhibitor
        border: solid 1px #ffffff !important;
     }
     </style>
-.. |REPLACE2| raw:: html
-
-    <script>
-    document.title = "Neusauber"
-    </script>
 .. |IMG1| image:: static/index_1.png
    :height: 524 px
    :width: 697 px
