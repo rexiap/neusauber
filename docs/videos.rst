@@ -58,9 +58,8 @@ AR/ARPrimer透明防鏽劑  透過化學法將鏽蝕反應終止（凍鏽），�
     <script language="javascript">
     var video = document.getElementById('video')
     var rect = video.parentNode.getBoundingClientRect()
-    video.style.width = (rect.width-10)+'px'
-    video.style.height = Math.floor((rect.width-10)/560 * 315)+'px'
-    
+    video.style.width = (rect.width)+'px'
+    video.style.height = Math.floor(rect.width/560 * 315)+'px'
     </script>
 .. |IMG1| image:: static/videos_1.png
    :height: 524 px
