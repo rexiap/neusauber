@@ -32,6 +32,9 @@ AR/ARPrimer透明防鏽劑  透過化學法將鏽蝕反應終止（凍鏽），�
 
 \ |IMG9|\ 
 
+
+|REPLACE2|
+
     更詳細資訊請聯絡 +886-3-3659119，由專人為您服務
 
  
@@ -48,6 +51,9 @@ AR/ARPrimer透明防鏽劑  透過化學法將鏽蝕反應終止（凍鏽），�
     }
     </style>
     
+.. |REPLACE2| raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bbC_PsDFVlQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 .. |IMG1| image:: static/videos_1.png
    :height: 524 px
    :width: 697 px
