@@ -53,7 +53,15 @@ AR/ARPrimer透明防鏽劑  透過化學法將鏽蝕反應終止（凍鏽），�
     
 .. |REPLACE2| raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/bbC_PsDFVlQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/bbC_PsDFVlQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    
+    <script language="javascript">
+    var video = document.getElementById('video')
+    var rect = video.parentNode.getBoundingClientRect()
+    video.style.width = (rect.width-10)+'px'
+    video.style.height = Math.floor((rect.width-10)/560 * 315)+'px'
+    
+    </script>
 .. |IMG1| image:: static/videos_1.png
    :height: 524 px
    :width: 697 px
