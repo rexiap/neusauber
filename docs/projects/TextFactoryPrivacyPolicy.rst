@@ -22,7 +22,7 @@ Our Privacy Policy explains:
 Information that we collect
 ===========================
 
-This Google Docs extension collect none of your personal information. When you use the TextFactory extesion in your Google Docs, The information is only between your browser and the Google Docs system. There is no any data was transfer to the author of any third-parties.
+This Google Docs extension collect none of your personal information. When you use the TextFactory extesion in your Google Docs, The information is only between your browser and the Google Docs system. There is no any data was transfer to the author or any third-parties.
 
 
 .. bottom of content
