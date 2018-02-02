@@ -185,13 +185,13 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
    :width: 294 px
 
 .. |IMG2| image:: static/影片_簡報圖片版_2.png
-   :height: 316 px
-   :width: 129 px
+   :height: 133 px
+   :width: 54 px
 
 .. |IMG3| image:: static/影片_簡報圖片版_3.png
    :height: 365 px
    :width: 309 px
 
 .. |IMG4| image:: static/影片_簡報圖片版_4.png
-   :height: 369 px
-   :width: 130 px
+   :height: 134 px
+   :width: 48 px
