@@ -92,13 +92,16 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
 
 |REPLACE2|
 
+    更詳細資訊請聯絡 +886-3-3659119，由專人為您服務
+
 
 |REPLACE3|
 
 
 |REPLACE4|
 
-    更詳細資訊請聯絡 +886-3-3659119，由專人為您服務
+
+|REPLACE5|
 
  
 
@@ -123,6 +126,16 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
     
 .. |REPLACE2| raw:: html
 
+    <iframe id="video" width="560" height="315" src="https://youtu.be/74AgCrS-xtU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    
+    <script language="javascript">
+    var video = document.getElementById('video')
+    var rect = video.parentNode.getBoundingClientRect()
+    video.style.width = (rect.width)+'px'
+    video.style.height = Math.floor(rect.width/560 * 315)+'px'
+    </script>
+.. |REPLACE3| raw:: html
+
     <style>
     td,th{
       border: none !important;
@@ -135,7 +148,7 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
       text-align:center;
     }
     </style>
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
@@ -146,7 +159,7 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
       opacity: 0.5;
     }
     </style>
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <iframe id="video" width="560" height="315" src="https://youtu.be/74AgCrS-xtU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     
