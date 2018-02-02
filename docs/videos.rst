@@ -166,7 +166,7 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
     </script>
 .. |REPLACE5| raw:: html
 
-    <iframe id="video" width="560" height="315" src="https://youtu.be/74AgCrS-xtU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/74AgCrS-xtU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
     
     <script language="javascript">
     var video = document.getElementById('video')
