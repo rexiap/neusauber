@@ -16,6 +16,8 @@ AR/ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
 
 非防鏽漆或防鏽油系統，高性能透明薄膜層，常用金屬材質皆可使用，長期防鏽蝕、防鹽害、防硫害、防沼氣最佳選擇．
 
+詳細內容請至中文網站： \ |LINK1|\ 
+
 \ |IMG1|\ 
 
 \ |IMG2|\ 
@@ -63,38 +65,44 @@ AR/ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
     video.style.width = (rect.width)+'px'
     video.style.height = Math.floor(rect.width/560 * 315)+'px'
     </script>
-.. |IMG1| image:: static/videos_1.png
+
+.. |LINK1| raw:: html
+
+    <a href="http://tw.neusauber.com" target="_blank">tw.neusauber.com</a>
+
+
+.. |IMG1| image:: static/影片_簡報圖片版_1.png
    :height: 524 px
    :width: 697 px
 
-.. |IMG2| image:: static/videos_2.png
+.. |IMG2| image:: static/影片_簡報圖片版_2.png
    :height: 524 px
    :width: 697 px
 
-.. |IMG3| image:: static/videos_3.png
+.. |IMG3| image:: static/影片_簡報圖片版_3.png
    :height: 524 px
    :width: 697 px
 
-.. |IMG4| image:: static/videos_4.png
+.. |IMG4| image:: static/影片_簡報圖片版_4.png
    :height: 524 px
    :width: 697 px
 
-.. |IMG5| image:: static/videos_5.png
+.. |IMG5| image:: static/影片_簡報圖片版_5.png
    :height: 524 px
    :width: 697 px
 
-.. |IMG6| image:: static/videos_6.png
+.. |IMG6| image:: static/影片_簡報圖片版_6.png
    :height: 524 px
    :width: 697 px
 
-.. |IMG7| image:: static/videos_7.png
+.. |IMG7| image:: static/影片_簡報圖片版_7.png
    :height: 524 px
    :width: 697 px
 
-.. |IMG8| image:: static/videos_8.png
+.. |IMG8| image:: static/影片_簡報圖片版_8.png
    :height: 524 px
    :width: 697 px
 
-.. |IMG9| image:: static/videos_9.png
+.. |IMG9| image:: static/影片_簡報圖片版_9.png
    :height: 524 px
    :width: 697 px
