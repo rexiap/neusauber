@@ -34,11 +34,11 @@ AR transparent rust inhibitor series - rust removal not required, instead of lea
 
 All AR transparent rust inhibitors are RoHS compliant, VOCs free, FDA suitable.
 
-Model: AR transparent rust inhibitor
+➤Model: AR transparent rust inhibitor
 
 Function: Rust-Freeze, Anti-rust
 
-➤Features:
+Features:
 
   1. Rust activeties no longer corrodes the metal, will not swell blisters.
 
