@@ -38,7 +38,7 @@ Model: AR transparent rust inhibitor
 
 Function: Rust-Freeze, Anti-rust
 
-Features:
+➤Features:
 
   1. Rust activeties no longer corrodes the metal, will not swell blisters.
 
@@ -56,7 +56,7 @@ Features:
 
   8. Newly, or rusty surface can be used.
 
-Model: ARPrimer transparent rust inhibitor
+➤Model: ARPrimer transparent rust inhibitor
 
 Function: Rust-Freeze, adhesion improver
 
