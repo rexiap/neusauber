@@ -1,8 +1,8 @@
 
-.. _h182f521a41561a52521e2255602c70:
+.. _h11557c105e2d7b72303656c28631717:
 
-AR Transparent Rust Inhibitor
-#############################
+AR Transparent Rust Inhibitors
+##############################
 
 
 .. toctree:: 
@@ -32,13 +32,13 @@ We are developed of rust-freeze technology, take the initiative to freeze the ru
 
 AR transparent rust inhibitor series - rust removal not required, instead of lead, zinc primer to improve the original anti-rust life by 3 times.
 
-All AR transparent rust inhibitors are RoHS compliant, VOCs free, FDA suitable.
+All AR transparent rust inhibitors are RoHS compliant, VOCs free, and FDA suitable.
 
 ➤Model: AR transparent rust inhibitor
 
-Function: Rust-Freeze, Anti-rust
+➤Function: Rust-Freeze, Anti-rust
 
-Features:
+➤Features:
 
   1. Rust activeties no longer corrodes the metal, will not swell blisters.
 
@@ -58,9 +58,9 @@ Features:
 
 ➤Model: ARPrimer transparent rust inhibitor
 
-Function: Rust-Freeze, adhesion improver
+➤Function: Rust-Freeze, adhesion improver
 
-Features:
+➤Features:
 
   1. Rust activeties no longer corrodes the metal, will not swell blisters.
 
