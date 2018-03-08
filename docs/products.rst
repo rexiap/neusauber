@@ -14,10 +14,10 @@ AR Transparent Rust Inhibitor
 
 |REPLACE1|
 
-.. _h76234f1c653c5c5a1d9383c3733b41:
+.. _h747b1c6d60466c1e2c7172e7b1d6b19:
 
-AR Transparent Rust Inhibitor Spray Can
-=======================================
+AR Transparent Rust Inhibitor Aerosol
+=====================================
 
 
 |REPLACE2|
@@ -40,10 +40,10 @@ ARPrimer Transparent Rust Inhibitor
 
 
 
-.. _h1274c4366d487e846dd6435b:
+.. _h1c363491f2b0323b43496d6a4b3061:
 
-ARPrimer Transparent Rust Inhibitor Spray Can
-=============================================
+ARPrimer Transparent Rust Inhibitor Aerosol
+===========================================
 
 
 |REPLACE4|
