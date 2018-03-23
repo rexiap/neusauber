@@ -20,7 +20,7 @@ AR Transparent Rust Inhibitors
 
 				
 
-						
+\ |IMG1|\ 						
 
 “Steel begins to corrode the day it is cast” Matthew R. Simmons, founder of the internationally renowned Energy Foundation.
 
@@ -95,3 +95,6 @@ All AR transparent rust inhibitors are RoHS compliant, VOCs free, and FDA suitab
     <script>
     document.title = "Neusauber"
     </script>
+.. |IMG1| image:: static/index_1.jpeg
+   :height: 500 px
+   :width: 674 px
