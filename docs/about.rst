@@ -6,13 +6,13 @@ About Neusauber
 
 \ |IMG1|\ 
 
-Neusauber is the company who focus on new generation surface technology development. Diverse products applied on aerospace, chemical, agriculture, mechanical, petroleum, Textile, metal material industries.
+Neusauber Inc. is the company who focus on new generation surface technology development. Diverse products applied on aerospace, chemical, agriculture, mechanical, petroleum, Textile, metal material industries.
 
 Neusauber provide chemical products, constructions, consultants and solutions for industrial customers. 
 
 
 .. bottom of content
 
-.. |IMG1| image:: static/about_1.png
-   :height: 132 px
-   :width: 120 px
+.. |IMG1| image:: static/關於意杰_1.png
+   :height: 100 px
+   :width: 288 px
