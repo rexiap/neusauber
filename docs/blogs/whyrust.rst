@@ -146,9 +146,9 @@
 
 .. |LINK1| raw:: html
 
-    <a href="blogs/ar600intro.html">AR600透明防鏽劑的介紹</a>
+    <a href="http://tw.neusauber.com" target="_blank">AR透明防鏽劑的介紹</a>
 
 
-.. |IMG1| image:: static/whyrust_1.png
+.. |IMG1| image:: static/金屬如何生鏽_1.jpeg
    :height: 528 px
    :width: 697 px
