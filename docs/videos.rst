@@ -62,14 +62,14 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="width:54%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><span  style="font-size:14px">ARPrimer M3100 底塗型透明防鏽劑 專業級1號</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">全方位防鏽，適用任何金屬、漆面</li><li style="list-style:inherit;list-style-image:inherit">快速止鏽、免除鏽、施作快速</li><li style="list-style:inherit;list-style-image:inherit">防止腐蝕擴散</li><li style="list-style:inherit;list-style-image:inherit">不用等待固化，立即可施作面漆</li><li style="list-style:inherit;list-style-image:inherit">取代合金底漆，提高漆面與金屬附著力</li><li style="list-style:inherit;list-style-image:inherit">可刷塗、噴塗，無黏度，施作面積大</li><li style="list-style:inherit;list-style-image:inherit">適用各式面漆系統(如:Epoxy、PU等)</li><li style="list-style:inherit;list-style-image:inherit">節省工時，施工期短，期程容易安排</li><li style="list-style:inherit;list-style-image:inherit">應用溫度範圍 -190 ~ +250 ℃</li></ul><p style="font-size:16px"></td><td style="width:46%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/影片_1.png" style="width:125px;height:160px;vertical-align: baseline;"></p></td></tr>
+    <tr><td style="width:54%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><span  style="font-size:14px">ARPrimer M3100 底塗型透明防鏽劑 專業級1號</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">全方位防鏽，適用任何金屬、漆面</li><li style="list-style:inherit;list-style-image:inherit">快速止鏽、免除鏽、施作快速</li><li style="list-style:inherit;list-style-image:inherit">防止腐蝕擴散</li><li style="list-style:inherit;list-style-image:inherit">不用等待固化，立即可施作面漆</li><li style="list-style:inherit;list-style-image:inherit">取代合金底漆，提高漆面與金屬附著力</li><li style="list-style:inherit;list-style-image:inherit">可刷塗、噴塗，無黏度，施作面積大</li><li style="list-style:inherit;list-style-image:inherit">適用各式面漆系統(如:Epoxy、PU等)</li><li style="list-style:inherit;list-style-image:inherit">節省工時，施工期短，期程容易安排</li><li style="list-style:inherit;list-style-image:inherit">應用溫度範圍 -190 ~ +250 ℃</li></ul><p style="font-size:16px"></td><td style="width:46%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/影片_1.png" style="width:140px;height:178px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
 .. |REPLACE3| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="width:53%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><span  style="font-size:14px">ARSealing M3300 密封型透明防鏽劑 專業級3號 </span></p><p style="font-size:14px"><span  style="font-size:14px">（原型號：AR）</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">全方位防鏽，適用任何金屬、漆面</li><li style="list-style:inherit;list-style-image:inherit">快速止鏽、免除鏽、施作快速</li><li style="list-style:inherit;list-style-image:inherit">透明超薄膜保護層，延長金屬、漆面使用壽命</li><li style="list-style:inherit;list-style-image:inherit">可刷塗、噴塗，無黏度，施作面積大</li><li style="list-style:inherit;list-style-image:inherit">節省工時，施工期短，期程容易安排</li><li style="list-style:inherit;list-style-image:inherit">應用溫度範圍 -190 ~ +250 ℃</li></ul><p style="font-size:16px"><p style="font-size:16px"></td><td style="width:47%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/影片_2.png" style="width:124px;height:158px;vertical-align: baseline;"></p></td></tr>
+    <tr><td style="width:53%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><span  style="font-size:14px">ARSealing M3300 密封型透明防鏽劑 專業級3號 </span></p><p style="font-size:14px"><span  style="font-size:14px">（原型號：AR）</span></p><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">全方位防鏽，適用任何金屬、漆面</li><li style="list-style:inherit;list-style-image:inherit">快速止鏽、免除鏽、施作快速</li><li style="list-style:inherit;list-style-image:inherit">透明超薄膜保護層，延長金屬、漆面使用壽命</li><li style="list-style:inherit;list-style-image:inherit">可刷塗、噴塗，無黏度，施作面積大</li><li style="list-style:inherit;list-style-image:inherit">節省工時，施工期短，期程容易安排</li><li style="list-style:inherit;list-style-image:inherit">應用溫度範圍 -190 ~ +250 ℃</li></ul><p style="font-size:16px"><p style="font-size:16px"></td><td style="width:47%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/影片_2.png" style="width:134px;height:173px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
 
@@ -79,9 +79,9 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
 
 
 .. |IMG1| image:: static/影片_1.png
-   :height: 160 px
-   :width: 125 px
+   :height: 178 px
+   :width: 140 px
 
 .. |IMG2| image:: static/影片_2.png
-   :height: 158 px
-   :width: 124 px
+   :height: 173 px
+   :width: 134 px
