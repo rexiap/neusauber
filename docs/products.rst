@@ -57,7 +57,7 @@ AR Transparent Rust Inhibitor Aerosol
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">ARPrimer True Color Rust Inhibitor is Europe-originated technology. It creates an ultra-thin and transparent layer on the surface to protect your assets and equipments. It works even on rusted surfaces with no need to polish the surface in advance. ARPrimer has dual effectiveness. It not only immediately stops corrosion, protects from further corrosion but also is a primer of paints. You can directly paint on the ARPrimer protected surface, any kind of primer of paints such as Epoxy, PU, Acrylic and PET is no more required before painting.</span></p><p style="font-size:14px"><span  style="font-size:14px">Can be applied to all kinds of metal materials, paint surface for food industry equipment, machinery and equipment, components, bolts, construction, landscape, art and so on. Seaside, hot spring areas and other harsh environments can be used.</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Applicable temperature range：+250 ~ -190℃</span></p><p style="font-size:14px"><span  style="font-size:14px">Average usage：200 m<sup>2</sup> /Gallon</span></p><p style="font-size:14px"><span  style="font-size:14px">Package：1、5、20 Gallon</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>  <img src="_images/產品_圖片版_1.png" style="width:282px;height:360px;vertical-align: baseline;"></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">ARPrimer True Color Rust Inhibitor is Europe-originated technology. It creates an ultra-thin and transparent layer on the surface to protect your assets and equipments. It works even on rusted surfaces with no need to polish the surface in advance. ARPrimer has dual effectiveness. It not only immediately stops corrosion, protects from further corrosion but also is a primer of paints. You can directly paint on the ARPrimer protected surface, any kind of primer of paints such as Epoxy, PU, Acrylic and PET is no more required before painting.</span></p><p style="font-size:14px"><span  style="font-size:14px">Can be applied to all kinds of metal materials, paint surface for food industry equipment, machinery and equipment, components, bolts, construction, landscape, art and so on. Seaside, hot spring areas and other harsh environments can be used.</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Applicable temperature range：+250 ~ -190℃</span></p><p style="font-size:14px"><span  style="font-size:14px">Average usage：200 m<sup>2</sup> /Gallon</span></p><p style="font-size:14px"><span  style="font-size:14px">Package：1、5、20 Gallon</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>  </p><p><img src="_images/產品_圖片版_1.png" style="width:209px;height:266px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
 .. |REPLACE2| raw:: html
@@ -71,7 +71,7 @@ AR Transparent Rust Inhibitor Aerosol
 
     <table cellspacing="0" cellpadding="0" style="width:86%">
     <tbody>
-    <tr><th style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:14px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">AR True Color  Rust Inhibitor can stop corrosion and provide protection against corrosion immediately. With the Europe-originated technology, it takes effect even on  rusted surfaces with no need to polishing the surface in advance. It creates an ultra-thin and transparent layer on the surface of protected assets and equipments.</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">AR True Color Rust Inhibitor works on all kinds of metals or painted surfaces, such as mechanical parts, building components, steel frames, screws as well as artworks.</span></p><p style="font-size:14px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Applicable temperature range：+250 ~ -190℃</span></p><p style="font-size:14px"><span  style="font-size:14px">Average usage：200 m<sup>2</sup> /Gallon</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Package：1、5、20 Gallon</span></p><p style="font-size:10px"></th><td style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>  <img src="_images/產品_圖片版_3.png" style="width:282px;height:362px;vertical-align: baseline;"></p></td></tr>
+    <tr><th style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:14px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">AR True Color  Rust Inhibitor can stop corrosion and provide protection against corrosion immediately. With the Europe-originated technology, it takes effect even on  rusted surfaces with no need to polishing the surface in advance. It creates an ultra-thin and transparent layer on the surface of protected assets and equipments.</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">AR True Color Rust Inhibitor works on all kinds of metals or painted surfaces, such as mechanical parts, building components, steel frames, screws as well as artworks.</span></p><p style="font-size:14px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Applicable temperature range：+250 ~ -190℃</span></p><p style="font-size:14px"><span  style="font-size:14px">Average usage：200 m<sup>2</sup> /Gallon</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Package：1、5、20 Gallon</span></p><p style="font-size:10px"></th><td style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>  <img src="_images/產品_圖片版_3.png" style="width:225px;height:288px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
 .. |REPLACE4| raw:: html
@@ -107,16 +107,16 @@ AR Transparent Rust Inhibitor Aerosol
     }
     </style>
 .. |IMG1| image:: static/產品_圖片版_1.png
-   :height: 360 px
-   :width: 282 px
+   :height: 266 px
+   :width: 209 px
 
 .. |IMG2| image:: static/產品_圖片版_2.png
    :height: 316 px
    :width: 114 px
 
 .. |IMG3| image:: static/產品_圖片版_3.png
-   :height: 362 px
-   :width: 282 px
+   :height: 288 px
+   :width: 225 px
 
 .. |IMG4| image:: static/產品_圖片版_4.png
    :height: 273 px
