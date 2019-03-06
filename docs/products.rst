@@ -96,7 +96,6 @@ AR Transparent Rust Inhibitor Aerosol
     <style>
     table.docutils{
       width:100%;
-      border-radius:2px;
     }
     td,th{
       border: none !important;
@@ -110,7 +109,7 @@ AR Transparent Rust Inhibitor Aerosol
       text-align:center;
     }
     td p{
-      line-height:20px !important;
+      line-height:24px !important;
     }
     </style>
 .. |REPLACE2| raw:: html
