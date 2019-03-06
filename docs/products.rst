@@ -101,6 +101,7 @@ AR Transparent Rust Inhibitor Aerosol
     td,th{
       border: none !important;
       text-align:left;
+      min-width:200px;
     }
     td:first-child,th:first-child{
       width:50%;
