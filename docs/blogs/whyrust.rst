@@ -52,14 +52,14 @@
     <a href="http://tw.neusauber.com" target="_blank">AR透明防鏽劑的介紹</a>
 
 
-.. |IMG1| image:: static/金屬如何生鏽_1.jpeg
+.. |IMG1| image:: static/whyrust_1.jpeg
    :height: 249 px
    :width: 330 px
 
-.. |IMG2| image:: static/金屬如何生鏽_2.png
+.. |IMG2| image:: static/whyrust_2.png
    :height: 229 px
    :width: 333 px
 
-.. |IMG3| image:: static/金屬如何生鏽_3.png
+.. |IMG3| image:: static/whyrust_3.png
    :height: 412 px
    :width: 469 px
