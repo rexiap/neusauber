@@ -12,7 +12,17 @@ ARPrimer M3100 True Color Rust Inhibitor
 ========================================
 
 
-|REPLACE1|
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+|ARPrimer True Color Rust Inhibitor is Europe-originated technology. It creates an ultra-thin and transparent layer on the surface to protect your assets and equipments. It works even on rusted surfaces with no need to polish the surface in advance. ARPrimer has dual effectiveness. It not only immediately stops corrosion, protects from further corrosion but also is a primer of paints. You can directly paint on the ARPrimer protected surface, any kind of primer of paints such as Epoxy, PU, Acrylic and PET is no more required before painting.|          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |          |
+|Can be applied to all kinds of metal materials, paint surface for food industry equipment, machinery and equipment, components, bolts, construction, landscape, art and so on. Seaside, hot spring areas and other harsh environments can be used.                                                                                                                                                                                                                                                                                                               |\ |IMG1|\ |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |          |
+|Applicable temperature range：+250 ~ -190℃                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |          |
+|Average usage：200 m\ |STYLE0|\  /Gallon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |          |
+|Package：1、5、20 Gallon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |          |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -25,7 +35,11 @@ ARPrimer Transparent Inhibitor Aerosol
 ======================================
 
 
-|REPLACE2|
++--------------------------------------+--------------------+
+|Vollume：220mL                        |          \ |IMG2|\ |
+|                                      |                    |
+|Average use area：4 m\ |STYLE1|\   max|                    |
++--------------------------------------+--------------------+
 
 .. _h181bc196a3f1ba277c4e1d27d265:
 
@@ -33,7 +47,20 @@ ARSealing M3300 True Color Rust Inhibitor
 =========================================
 
 
-|REPLACE3|
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+|                                                                                                                                                                                                                                                                                                                                          |  \ |IMG3|\ |
+|                                                                                                                                                                                                                                                                                                                                          |            |
+|AR True Color  Rust Inhibitor can stop corrosion and provide protection against corrosion immediately. With the Europe-originated technology, it takes effect even on  rusted surfaces with no need to polishing the surface in advance. It creates an ultra-thin and transparent layer on the surface of protected assets and equipments.|            |
+|                                                                                                                                                                                                                                                                                                                                          |            |
+|AR True Color Rust Inhibitor works on all kinds of metals or painted surfaces, such as mechanical parts, building components, steel frames, screws as well as artworks.                                                                                                                                                                   |            |
+|                                                                                                                                                                                                                                                                                                                                          |            |
+|                                                                                                                                                                                                                                                                                                                                          |            |
+|Applicable temperature range：+250 ~ -190℃                                                                                                                                                                                                                                                                                                |            |
+|Average usage：200 m2 /Gallon                                                                                                                                                                                                                                                                                                             |            |
+|                                                                                                                                                                                                                                                                                                                                          |            |
+|Package：1、5、20 Gallon                                                                                                                                                                                                                                                                                                                  |            |
+|                                                                                                                                                                                                                                                                                                                                          |            |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
 
 .. _h747b1c6d60466c1e2c7172e7b1d6b19:
 
@@ -41,47 +68,30 @@ AR Transparent Rust Inhibitor Aerosol
 =====================================
 
 
-|REPLACE4|
++--------------------------------------+--------------------+
+|Vollume：220mL                        |          \ |IMG4|\ |
+|                                      |                    |
+|Average use area：4 m\ |STYLE2|\   max|                    |
++--------------------------------------+--------------------+
 
 
-|REPLACE5|
+|REPLACE1|
 
 
-|REPLACE6|
+|REPLACE2|
 
 
 .. bottom of content
 
 
+.. |STYLE0| replace:: :sup:`2`
+
+.. |STYLE1| replace:: :sup:`2`
+
+.. |STYLE2| replace:: :sup:`2`
+
+
 .. |REPLACE1| raw:: html
-
-    <table cellspacing="0" cellpadding="0" style="width:100%">
-    <tbody>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">ARPrimer True Color Rust Inhibitor is Europe-originated technology. It creates an ultra-thin and transparent layer on the surface to protect your assets and equipments. It works even on rusted surfaces with no need to polish the surface in advance. ARPrimer has dual effectiveness. It not only immediately stops corrosion, protects from further corrosion but also is a primer of paints. You can directly paint on the ARPrimer protected surface, any kind of primer of paints such as Epoxy, PU, Acrylic and PET is no more required before painting.</span></p><p style="font-size:14px"><span  style="font-size:14px">Can be applied to all kinds of metal materials, paint surface for food industry equipment, machinery and equipment, components, bolts, construction, landscape, art and so on. Seaside, hot spring areas and other harsh environments can be used.</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Applicable temperature range：+250 ~ -190℃</span></p><p style="font-size:14px"><span  style="font-size:14px">Average usage：200 m<sup>2</sup> /Gallon</span></p><p style="font-size:14px"><span  style="font-size:14px">Package：1、5、20 Gallon</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>  </p><p><img src="_images/產品_圖片版_1.png" style="width:209px;height:266px;vertical-align: baseline;"></p></td></tr>
-    </tbody></table>
-
-.. |REPLACE2| raw:: html
-
-    <table cellspacing="0" cellpadding="0" style="width:100%">
-    <tbody>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Vollume：220mL</span></p><p style="font-size:14px"><span  style="font-size:14px">Average use area：4 m<sup>2</sup>  max</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>          <img src="_images/產品_圖片版_2.png" style="width:114px;height:316px;vertical-align: baseline;"></p></td></tr>
-    </tbody></table>
-
-.. |REPLACE3| raw:: html
-
-    <table cellspacing="0" cellpadding="0" style="width:86%">
-    <tbody>
-    <tr><th style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:14px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">AR True Color  Rust Inhibitor can stop corrosion and provide protection against corrosion immediately. With the Europe-originated technology, it takes effect even on  rusted surfaces with no need to polishing the surface in advance. It creates an ultra-thin and transparent layer on the surface of protected assets and equipments.</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">AR True Color Rust Inhibitor works on all kinds of metals or painted surfaces, such as mechanical parts, building components, steel frames, screws as well as artworks.</span></p><p style="font-size:14px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Applicable temperature range：+250 ~ -190℃</span></p><p style="font-size:14px"><span  style="font-size:14px">Average usage：200 m<sup>2</sup> /Gallon</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">Package：1、5、20 Gallon</span></p><p style="font-size:10px"></th><td style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>  <img src="_images/產品_圖片版_3.png" style="width:225px;height:288px;vertical-align: baseline;"></p></td></tr>
-    </tbody></table>
-
-.. |REPLACE4| raw:: html
-
-    <table cellspacing="0" cellpadding="0" style="width:100%">
-    <tbody>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><span  style="font-size:14px">Vollume：220mL</span></p><p style="font-size:14px"><span  style="font-size:14px">Average use area：4 m<sup>2</sup>  max</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>          <img src="_images/產品_圖片版_4.png" style="width:109px;height:273px;vertical-align: baseline;"></p></td></tr>
-    </tbody></table>
-
-.. |REPLACE5| raw:: html
 
     <style>
     td,th{
@@ -95,7 +105,7 @@ AR Transparent Rust Inhibitor Aerosol
       text-align:center;
     }
     </style>
-.. |REPLACE6| raw:: html
+.. |REPLACE2| raw:: html
 
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
