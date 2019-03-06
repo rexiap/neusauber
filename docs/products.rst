@@ -94,6 +94,10 @@ AR Transparent Rust Inhibitor Aerosol
 .. |REPLACE1| raw:: html
 
     <style>
+    table.docutils{
+      width:100%
+    }
+    
     td,th{
       border: none !important;
       text-align:left;
