@@ -61,5 +61,5 @@
    :width: 333 px
 
 .. |IMG3| image:: static/金屬如何生鏽_3.png
-   :height: 402 px
-   :width: 466 px
+   :height: 412 px
+   :width: 469 px
