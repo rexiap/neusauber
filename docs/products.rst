@@ -29,18 +29,6 @@ ARPrimer M3100 True Color Rust Inhibitor
 
 
 
-.. _hb2f19376758683e7f12d32114f4019:
-
-ARPrimer Transparent Inhibitor Aerosol
-======================================
-
-
-+--------------------------------------+--------------------+
-|Vollume：220mL                        |          \ |IMG2|\ |
-|                                      |                    |
-|Average use area：4 m\ |STYLE1|\   max|                    |
-+--------------------------------------+--------------------+
-
 .. _h181bc196a3f1ba277c4e1d27d265:
 
 ARSealing M3300 True Color Rust Inhibitor
@@ -48,7 +36,7 @@ ARSealing M3300 True Color Rust Inhibitor
 
 
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
-|                                                                                                                                                                                                                                                                                                                                          |  \ |IMG3|\ |
+|                                                                                                                                                                                                                                                                                                                                          |  \ |IMG2|\ |
 |                                                                                                                                                                                                                                                                                                                                          |            |
 |AR True Color  Rust Inhibitor can stop corrosion and provide protection against corrosion immediately. With the Europe-originated technology, it takes effect even on  rusted surfaces with no need to polishing the surface in advance. It creates an ultra-thin and transparent layer on the surface of protected assets and equipments.|            |
 |                                                                                                                                                                                                                                                                                                                                          |            |
@@ -62,18 +50,6 @@ ARSealing M3300 True Color Rust Inhibitor
 |                                                                                                                                                                                                                                                                                                                                          |            |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
 
-.. _h747b1c6d60466c1e2c7172e7b1d6b19:
-
-AR Transparent Rust Inhibitor Aerosol
-=====================================
-
-
-+--------------------------------------+--------------------+
-|Vollume：220mL                        |          \ |IMG4|\ |
-|                                      |                    |
-|Average use area：4 m\ |STYLE2|\   max|                    |
-+--------------------------------------+--------------------+
-
 
 |REPLACE1|
 
@@ -85,10 +61,6 @@ AR Transparent Rust Inhibitor Aerosol
 
 
 .. |STYLE0| replace:: :sup:`2`
-
-.. |STYLE1| replace:: :sup:`2`
-
-.. |STYLE2| replace:: :sup:`2`
 
 
 .. |REPLACE1| raw:: html
@@ -128,13 +100,5 @@ AR Transparent Rust Inhibitor Aerosol
    :width: 186 px
 
 .. |IMG2| image:: static/產品_圖片版_2.png
-   :height: 316 px
-   :width: 114 px
-
-.. |IMG3| image:: static/產品_圖片版_3.png
    :height: 237 px
    :width: 185 px
-
-.. |IMG4| image:: static/產品_圖片版_4.png
-   :height: 273 px
-   :width: 109 px
