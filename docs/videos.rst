@@ -12,10 +12,10 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
 
 
 
-.. _h2c1d74277104e41780968148427e:
+.. _h46495d5c645e1b57c1c13254c55a1f:
 
-
-
+詳細內容請至\ |LINK1|\ 
+=======================
 
 
 +-----------------------------------------+----------+
@@ -71,7 +71,7 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
 
     凍鏽才能解決鏽蝕不斷發生的問題
 
-    深入了解\ |LINK1|\ 請進
+    深入了解\ |LINK2|\ 請進
 
 .. _h3a4f224b78103a591f3c111f7943593d:
 
@@ -98,6 +98,10 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
     </style>
 
 .. |LINK1| raw:: html
+
+    <a href="tw.neusauber.com">中文專用網站</a>
+
+.. |LINK2| raw:: html
 
     <a href="http://tw.neusauber.com" target="_blank">AR透明防鏽劑</a>
 
