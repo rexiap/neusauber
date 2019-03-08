@@ -99,7 +99,7 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
 
 .. |LINK1| raw:: html
 
-    <a href="tw.neusauber.com">中文專用網站</a>
+    <a href="http://tw.neusauber.com" target="_blank">中文專用網站</a>
 
 .. |LINK2| raw:: html
 
