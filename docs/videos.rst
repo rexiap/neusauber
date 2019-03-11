@@ -107,9 +107,9 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽 透明 免除鏽
 
 
 .. |IMG1| image:: static/影片_1.png
-   :height: 178 px
+   :height: 154 px
    :width: 140 px
 
 .. |IMG2| image:: static/影片_2.png
-   :height: 173 px
+   :height: 157 px
    :width: 134 px
