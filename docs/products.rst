@@ -96,9 +96,9 @@ ARSealing M3300 True Color Rust Inhibitor
     }
     </style>
 .. |IMG1| image:: static/產品_圖片版_1.png
-   :height: 221 px
-   :width: 174 px
+   :height: 204 px
+   :width: 160 px
 
 .. |IMG2| image:: static/產品_圖片版_2.png
-   :height: 246 px
-   :width: 192 px
+   :height: 208 px
+   :width: 162 px
