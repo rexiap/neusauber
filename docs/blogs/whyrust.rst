@@ -39,7 +39,7 @@
 
 ..  Note:: 
 
-    推薦閱讀：最新不用除鏽就可防鏽的方法，\ |LINK1|\ 
+    \ |STYLE7|\ \ |LINK1|\ 
 
 
 .. bottom of content
@@ -59,10 +59,12 @@
 
 .. |STYLE6| replace:: *所以除鏽完成的當下，也是鏽蝕重生的時刻。*
 
+.. |STYLE7| replace:: **推薦閱讀：**
+
 
 .. |LINK1| raw:: html
 
-    <a href="http://tw.neusauber.com" target="_blank">AR透明防鏽劑的介紹</a>
+    <a href="http://tw.neusauber.com" target="_blank">最新不用除鏽就可防鏽的方法，AR透明防鏽劑的介紹</a>
 
 
 .. |IMG1| image:: static/金屬如何生鏽_1.png
@@ -74,5 +76,5 @@
    :width: 525 px
 
 .. |IMG3| image:: static/金屬如何生鏽_3.png
-   :height: 552 px
-   :width: 592 px
+   :height: 457 px
+   :width: 489 px
