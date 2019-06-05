@@ -23,16 +23,14 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽透明免除鏽
 
 \ |STYLE2|\ 
 
-\ |STYLE3|\ 
-
 
 .. admonition:: 獨家特色
 
+    \ |STYLE3|\ 
+    
     \ |STYLE4|\ 
     
     \ |STYLE5|\ 
-    
-    \ |STYLE6|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -44,11 +42,11 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽透明免除鏽
 系列產品
 ========
 
-\ |STYLE7|\ 
+\ |STYLE6|\ 
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
 
-\ |STYLE8|\ 
+\ |STYLE7|\ 
 
 同時具有凍鏽及防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
 
@@ -129,17 +127,15 @@ ARSealing / ARPrimer 透明防鏽劑 - 防鏽透明免除鏽
 
 .. |STYLE2| replace:: **經凍鏽後原鏽層即為附著極佳與覆蓋完整之最理想無機保護層，防護金屬避免再度氧化。施作簡單、快速，防鏽效果佳、壽命長。符合CNS4908、CNS4160標準。**
 
-.. |STYLE3| replace:: **AR透明防鏽劑**
+.. |STYLE3| replace:: **三大特點：免除鏽、施作快、不返鏽**
 
-.. |STYLE4| replace:: **三大特點：免除鏽、施作快、不返鏽**
+.. |STYLE4| replace:: **五種適用面：金屬面、鏽蝕面、油漆面、高熱面、低溫面**
 
-.. |STYLE5| replace:: **五種適用面：金屬面、鏽蝕面、油漆面、高熱面、低溫面**
+.. |STYLE5| replace:: **七項優勢：用量省、免技巧、不挑漆、無膜厚、全透明、超環保、效果長**
 
-.. |STYLE6| replace:: **七項優勢：用量省、免技巧、不挑漆、無膜厚、全透明、超環保、效果長**
+.. |STYLE6| replace:: **ARPrimer底塗型透明防鏽劑**
 
-.. |STYLE7| replace:: **ARPrimer底塗型透明防鏽劑**
-
-.. |STYLE8| replace:: **ARSealing密封型透明防鏽劑**
+.. |STYLE7| replace:: **ARSealing密封型透明防鏽劑**
 
 
 .. |REPLACE1| raw:: html
