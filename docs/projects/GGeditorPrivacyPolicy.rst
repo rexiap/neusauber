@@ -4,7 +4,7 @@
 Privacy Policy of GGeditor
 **************************
 
-version 2021
+version 2021/10/3
 
 The GGeditor is an Google Docs Addon, it is developped and running within the sandbox of the Google Docs System. Within the sandbox, it accesses, inserts content into user's document and stores user's settings.  
 
