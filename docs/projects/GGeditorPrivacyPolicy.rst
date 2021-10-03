@@ -4,11 +4,19 @@
 Privacy Policy of GGeditor
 **************************
 
-The GGeditor is an Google Docs Addon, it is developped and running in the sandbox with the script API of the Google Docs System. Within the sandbox, it accesses, use users documents and stores users settings.  
+version 2021
 
-The GGeditor's major feature is to convert a Google document into reStructured text and exports them to user owned Github repository. Besides that it does not share any content to any parities nor the GGeditor author.  It did the conversion and exporting by user's request only.
+The GGeditor is an Google Docs Addon, it is developped and running within the sandbox of the Google Docs System. Within the sandbox, it accesses, inserts content into user's document and stores user's settings.  
 
-As an add-on of the Google Docs, the GGeditor does nothing without user's interaction. The GGeditor does not collect any Google users data for its own sake, neither no Google Analytics to watch users behavior (I am not saying that Google didn't do it when user activates the GGeditor to do reST conversion, actually I have no idea whether they do it or not, just saying that the GGeditor didn't do it). Besides exporting to user's Github repository by user's request, all the other dataflow are inbetween user's browser and the Google Docs System. The GGeditor author does not setup any 3-rd party facilities to participate during the whole usage cycle.
+The GGeditor's major feature is to convert a Google Doc document into text of reStructured format, then exports the text content to the Github repository owned by the same user. It does not share any content to any parities nor the GGeditor author.  The conversion and exporting to the Github is all under user's manual operation.
+
+As an Add-on of the Google Docs, the GGeditor does anything by user's interaction. There is no automation in background. The GGeditor does not collect any Google users' data, neither no Google Analytics to watch usage behavior (I am not saying that Google does not do it when a user activates the GGeditor Add-on, actually I have no idea whether they do it or not, I am just saying that the GGeditor does not collect any data for watching usage behavior).
+
+\ |IMG1|\ 
 
 
 .. bottom of content
+
+.. |IMG1| image:: static/Privacy_Policy_of_GGeditor_1.png
+   :height: 401 px
+   :width: 541 px
