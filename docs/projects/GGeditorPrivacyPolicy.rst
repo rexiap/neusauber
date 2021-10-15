@@ -6,7 +6,7 @@ Privacy Policy of GGeditor
 
 version 2021/10/15
 
-This document would thoroughly disclose the manner in which the GGeditor accesses, uses, stores, or shares Google user data. The "Google user data" means to the opening Google document which Add-ons of the Google Docs are working.
+This document would thoroughly disclose the manner in which the GGeditor accesses, uses, stores, or shares Google user data. Here, the "Google user data" means the opening Google document which every add-ons of the Google Docs are working with.
 
 \ |STYLE0|\ 
 
