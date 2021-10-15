@@ -4,7 +4,29 @@
 Privacy Policy of GGeditor
 **************************
 
-version 2021/10/3
+version 2021/10/15
+
+This document would thoroughly disclose the manner in which the GGeditor accesses, uses, stores, or shares Google user data. The "Google user data" means to the opening Google document which Add-ons of the Google Docs are working.
+
+\ |STYLE0|\ 
+
+The GGeditor is an Add-on for the Google Docs App.  When users installed The GGeditor add-on. It is listed on the menu bar by the Google Docs Aoo. The GGeditor works in an environment which is provided and limited by the Add-on feature of the Google Docs. The GGeditor accesses the opening Google document via the Google Docs App.
+
+\ |STYLE1|\ 
+
+The GGeditor convert content of the opening Google document to reStructuredText format.
+
+\ |STYLE2|\ 
+
+The GGeditor does not store any content of the opening Google document. The GGeditor only stores users settings via the Google Docs App. Which is provided by the Add-on development API.
+
+\ |STYLE3|\ 
+
+The GGeditor does not share content of the opening Google document. 
+
+The converted reStructuredText content would be pushed to a repository of the Github. That repository is owned by the user,  not the GGeditor. Because the repository name, path and credentials for accessing that repository are all given by the user.
+
+\ |STYLE4|\ 
 
 The GGeditor is an Google Docs Addon, it is developped and running within the sandbox of the Google Docs System. Within the sandbox, it accesses, inserts content into user's document and stores user's settings.  
 
@@ -16,6 +38,17 @@ As an Add-on of the Google Docs, the GGeditor does anything by user's interactio
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **How the GGeditor accesses Google user data:**
+
+.. |STYLE1| replace:: **How the GGeditor uses Google user data:**
+
+.. |STYLE2| replace:: **How the GGeditor stores Google user data:**
+
+.. |STYLE3| replace:: **How the GGeditor shares Google user data:**
+
+.. |STYLE4| replace:: **More Details**
 
 .. |IMG1| image:: static/Privacy_Policy_of_GGeditor_1.png
    :height: 401 px
