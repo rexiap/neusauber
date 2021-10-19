@@ -7,6 +7,6 @@
 
 .. |REPLACE1| raw:: html
 
-    <script>
-    location.href="https://ggeditor.readthedocs.io/en/latest/index.html"
-    </script>
+    <iframe src="https://ggeditor.readthedocs.io/en/latest/index.html"
+     style="width:100vw;height:100vh;position:absolute;left:0;top:0"
+    </iframe>
