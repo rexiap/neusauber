@@ -1,7 +1,7 @@
 
-.. _h18371c693a512872254d84c663b4b:
+.. _h182f521a41561a52521e2255602c70:
 
-AR True Color Rust Inhibitors
+AR Transparent Rust Inhibitor
 #############################
 
 
@@ -18,65 +18,61 @@ AR True Color Rust Inhibitors
 
 |REPLACE1|
 
-				
+.. _h2c1d74277104e41780968148427e:
 
-Above the high-risk lanes, workers are not only facing quality requirements, but also under pressure of high-speed vehicles and strong winds. With ARPrimer, both working hours and cost have reduced to 1/4, together with several times up anti-rust effect. AR's performance has recognized by the Taiwan Highway Administration Bureau. It is the only officially acknowledged rust inhibitor to steel-gates of the super hight way ETC system in Taiwan. 
 
-\ |IMG1|\ 						
 
-“Steel begins to corrode the day it is cast” Matthew R. Simmons, founder of the internationally renowned Energy Foundation.
 
-The conventional theory of rustproof requires that the rust is removed totally, but also requires the use of very thick coating to avoid metal corrosion caused by external factors. However, the practice of the rust removal method is one of the main causes of rapid corrosion, for example, water jet or sand blasting. Cause by the water jet  cannot reach the point of view, the actual rust removal rate average attend to 90% only, there are up to 10% of rust wrapped into the coating, and the rust cause by water calculated in not yet.
 
-Sand blasting, although it can reach a very high rate of rust removal. However, in high humidity environment, the surface will generate a large number of rust spots, if not in half an hour to one hour paint protection, practically hardly reached. Moreover, there are many cases in which any rust removal method can not be used.
++-----------------------------------------+-----------------+
+|AR Transparent Rust Inhibitor            |\ |IMG1|\        |
+|                                         |                 |
+|* Totally Anti rust                      |                 |
+|                                         |                 |
+|* Quickly Stop rust reaction             |                 |
+|                                         |                 |
+|* Easy Treats without remove rusted layer|                 |
+|                                         |                 |
+|* Thin transparency protect film         |                 |
+|                                         |                 |
+|* Multiple apply method                  |                 |
+|                                         |                 |
+|* Saving cost                            |                 |
++-----------------------------------------+-----------------+
 
-We are developed of rust-freeze technology, take the initiative to freeze the rust activity, the corrosion reaction to stop the series of "AR true color rust inhibitor," so as to improve or complement the current anti-rust blind spot and the implementation of the practical to achieve rustproof design life.
+AR Transparent Rust Inhibitor is solvent base chemical agent, providing anti rust thin transparent protective film for covered surface. Wide range of applications, for example, new or rusted metal frame. It can make new material surface survived over 20 months without any weight loss in ISO 9223 C5 corrosive environment. Also improve D grade (by Swedish Standard SIS-05-5900) rusted parts to A grade immediately, and stay the same over 6 months in C5 corrosive environment.
 
-AR true color rust inhibitor series - rust removal not required, instead of lead, zinc primer to improve the original anti-rust life by 3 times.
+Rohs, VOCs, FDA verificated by SGS
 
-All AR true color rust inhibitors are RoHS compliant, VOCs free, and FDA suitable.
+.. _h2c1d74277104e41780968148427e:
 
-➤Model: ARPrimer M3100 True color rust inhibitor
 
-➤Function: Rust-Freeze, adhesion improver
 
-➤Features:
 
-  1. Rust activeties no longer corrodes the metal, will not swell blisters.
 
-  2. Exempts the rust removal.
++-----------------------------------------+----------------+
+|ARPrimer Transparent Rust Inhibitor      |\ |IMG3|\       |
+|                                         |                |
+|* Totally anti rust                      |                |
+|                                         |                |
+|* Quickly stop rust reaction             |                |
+|                                         |                |
+|* Easy treats without remove rusted layer|                |
+|                                         |                |
+|* Thin transparency protect film         |                |
+|                                         |                |
+|* Multiple apply method                  |                |
+|                                         |                |
+|* Suite for all kinds of paints          |                |
+|                                         |                |
+|* Treat then Paint system                |                |
+|                                         |                |
+|* Saving time and cost                   |                |
++-----------------------------------------+----------------+
 
-  3. Curing free, treating paint directly after coated ARPrimer.
+    ARPrimer Transparent Rust Inhibitor is solvent base chemical agent, providing metal/rust conversion substrate for adhesive with paints. Suit for wide range of paint system ex. Epoxy, PU, PET. Treat then Paint system make user shorten working time, with no waiting ARPrimer cured can paint directly.All kinds of metal or rust surface can be treated with ARPrimer Transparent Rust Inhibitor and paint to against/stop rust or corrosion.
 
-  4. Increase the anti-rust paint life 3 times.
-
-  5. Replace the common primer, lead primer, zinc primer.
-
-  6. Improve the adhesion of hot-dip galvanized surface paint.
-
-  7. To reach the original design rust life of the paint.
-
-➤Model: ARSealing M3300 True Color rust inhibitor
-
-➤Function: Rust-Freeze, Anti-rust
-
-➤Features:
-
-  1. Rust activeties no longer corrodes the metal, will not swell blisters.
-
-  2. Exempts the rust removal.
-
-  3. Completes the work after the coating is finished, the protection takes effect after 30 minutes.
-
-  4. True color designed layer does not change the appearance.
-
-  5. Variety of metals can be applied.
-
-  6. To prevent humidity with salt, sulfur, acid gas erosion.
-
-  7. To improve the surface treatment or rustproof ability of the original 3 times.
-
-  8. Newly, or rusty surface can be used.
+    Rohs, VOCs, FDA verificated by SGS
 
 
 |REPLACE2|
@@ -96,7 +92,23 @@ All AR true color rust inhibitors are RoHS compliant, VOCs free, and FDA suitabl
 
     <script>
     document.title = "Neusauber"
+    const ad = document.querySelector('.ethical-sidebar')
+    ad.style.position='absolute'
+    ad.style.bottom = '-500px'
+    ad.style.transform='scale(0.8)'
     </script>
-.. |IMG1| image:: static/index_1.jpeg
-   :height: 500 px
-   :width: 674 px
+.. |IMG1| image:: static/index_1.png
+   :height: 204 px
+   :width: 165 px
+
+.. |IMG2| image:: static/index_2.png
+   :height: 166 px
+   :width: 66 px
+
+.. |IMG3| image:: static/index_3.png
+   :height: 200 px
+   :width: 170 px
+
+.. |IMG4| image:: static/index_4.png
+   :height: 173 px
+   :width: 62 px
