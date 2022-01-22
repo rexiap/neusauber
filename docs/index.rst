@@ -97,9 +97,11 @@ Rohs, VOCs, FDA verificated by SGS
       const ad = document.querySelector(n);
       if (!ad) return setTimeout(a,100);
       ad.style.position='absolute';
+      const t = document.querySelector('.rst-current-version')
       const h = document.querySelector('.wy-nav-content')
-       if (h) ad.style.top = `${h.getBoundingClientRect().height}px`;
-      else ad.style.bottom = '-200px';
+       let bottom = -200
+       if (h && t) bottom = h.getBoundingClientRect().height - t.getBoundingClientRect().top;
+      ad.style.bottom = `${bottom}px`;
       ad.style.transform='scale(0.75)';
     }
     setTimeout(a,100)
