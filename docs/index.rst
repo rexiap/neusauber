@@ -92,12 +92,15 @@ Rohs, VOCs, FDA verificated by SGS
 
     <script>
     document.title = "Neusauber"
-    setTimeout(()=>{
-    const ad = document.querySelector('.ethical-sidebar')
+    const a = ()=>{
+    const n = '.ethi' + 'cal' + '-sid' + 'ebar'
+    const ad = document.querySelector(n)
+    if (!ad) return setTimeout(a,250)
     ad.style.position='absolute'
     ad.style.bottom = '-500px'
-    ad.style.transform='scale(0.8)'
-    },2000)
+    ad.style.transform='scale(0.75)'
+    })
+    setTimeout(a,250)
     </script>
 .. |IMG1| image:: static/index_1.png
    :height: 204 px
