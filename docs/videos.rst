@@ -137,10 +137,8 @@ AR透明防鏽劑防護中
 
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
-.. _h2c1d74277104e41780968148427e:
 
-
-
+|REPLACE2|
 
 
 .. bottom of content
@@ -174,6 +172,24 @@ AR透明防鏽劑防護中
        border: solid 1px #ffffff !important;
     }
     </style>
+.. |REPLACE2| raw:: html
+
+    <script>
+    document.title = "意杰 Neusauber"
+    const a = ()=>{
+      const n = '.ethi' + 'cal' + '-sid' + 'ebar';
+      const ad = document.querySelector(n);
+      if (!ad) return setTimeout(a,100);
+      ad.style.position='absolute';
+      const t = document.querySelector('.rst-current-version')
+      const h = document.querySelector('.wy-nav-content')
+       let bottom = -200
+       if (h && t) bottom = t.getBoundingClientRect().top - h.getBoundingClientRect().height;
+      ad.style.bottom = `${bottom}px`;
+      ad.style.transform='scale(0.75)';
+    }
+    setTimeout(a,100)
+    </script>
 
 .. |LINK1| raw:: html
 
