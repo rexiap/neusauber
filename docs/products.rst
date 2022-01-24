@@ -57,6 +57,9 @@ ARSealing M3300 True Color Rust Inhibitor
 |REPLACE2|
 
 
+|REPLACE3|
+
+
 .. bottom of content
 
 
@@ -95,6 +98,24 @@ ARSealing M3300 True Color Rust Inhibitor
       opacity: 0.5;
     }
     </style>
+.. |REPLACE3| raw:: html
+
+    <script>
+    document.title = "Neusauber"
+    const a = ()=>{
+      const n = '.ethi' + 'cal' + '-sid' + 'ebar';
+      const ad = document.querySelector(n);
+      if (!ad) return setTimeout(a,100);
+      ad.style.position='absolute';
+      const t = document.querySelector('.rst-current-version')
+      const h = document.querySelector('.wy-nav-content')
+       let bottom = -200
+       if (h && t) bottom = t.getBoundingClientRect().top - h.getBoundingClientRect().height;
+      ad.style.bottom =  `${Math.min(0,bottom)}px`;
+      ad.style.transform='scale(0.75)';
+    }
+    setTimeout(a,100)
+    </script>
 .. |IMG1| image:: static/產品_圖片版_1.png
    :height: 205 px
    :width: 168 px
