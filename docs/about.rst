@@ -30,7 +30,7 @@ Neusauber provide chemical products, constructions, consultants and solutions fo
       const h = document.querySelector('.wy-nav-content')
        let bottom = -200
        if (h && t) bottom = t.getBoundingClientRect().top - h.getBoundingClientRect().height;
-      ad.style.bottom = `${bottom}px`;
+      ad.style.bottom = `${Math.min(-200,bottom)}px`;
       ad.style.transform='scale(0.75)';
     }
     setTimeout(a,100)
